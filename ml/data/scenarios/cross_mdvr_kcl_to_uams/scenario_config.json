@@ -1,0 +1,17 @@
+{
+  "name": "cross_mdvr_kcl_to_uams",
+  "kind": "cross",
+  "description": "Train on MDVR-KCL (train split), select on UAMS (val split), and test on UAMS (test split).",
+  "train_datasets": [
+    "mdvr-kcl"
+  ],
+  "val_datasets": [
+    "uams"
+  ],
+  "test_datasets": [
+    "uams"
+  ],
+  "final_fit_splits": [
+    "train"
+  ]
+}

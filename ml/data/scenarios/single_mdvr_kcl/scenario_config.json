@@ -1,0 +1,18 @@
+{
+  "name": "single_mdvr_kcl",
+  "kind": "single",
+  "description": "Train/validate/test only on the MDVR-KCL dataset.",
+  "train_datasets": [
+    "mdvr-kcl"
+  ],
+  "val_datasets": [
+    "mdvr-kcl"
+  ],
+  "test_datasets": [
+    "mdvr-kcl"
+  ],
+  "final_fit_splits": [
+    "train",
+    "val"
+  ]
+}

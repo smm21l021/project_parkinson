@@ -1,0 +1,24 @@
+{
+  "name": "combined_all",
+  "kind": "combined",
+  "description": "Train/validate/test on the union of UAMS, IPVS and MDVR-KCL.",
+  "train_datasets": [
+    "uams",
+    "ipvs",
+    "mdvr-kcl"
+  ],
+  "val_datasets": [
+    "uams",
+    "ipvs",
+    "mdvr-kcl"
+  ],
+  "test_datasets": [
+    "uams",
+    "ipvs",
+    "mdvr-kcl"
+  ],
+  "final_fit_splits": [
+    "train",
+    "val"
+  ]
+}

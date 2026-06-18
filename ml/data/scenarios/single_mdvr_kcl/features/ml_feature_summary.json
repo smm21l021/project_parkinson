@@ -1,0 +1,34 @@
+{
+  "scenario": "single_mdvr_kcl",
+  "kind": "single",
+  "description": "Train/validate/test only on the MDVR-KCL dataset.",
+  "datasets": {
+    "train": [
+      "mdvr-kcl"
+    ],
+    "val": [
+      "mdvr-kcl"
+    ],
+    "test": [
+      "mdvr-kcl"
+    ]
+  },
+  "final_fit_splits": [
+    "train",
+    "val"
+  ],
+  "n_rows": 146,
+  "n_patients": 73,
+  "split_counts": {
+    "test": 22,
+    "train": 102,
+    "val": 22
+  },
+  "dataset_counts": {
+    "mdvr-kcl": 146
+  },
+  "class_counts": {
+    "0": 84,
+    "1": 62
+  }
+}

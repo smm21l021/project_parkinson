@@ -1,0 +1,173 @@
+filename,patient_id,dataset,label,split,source_dataset,dataset_role,scenario,model,score,pred_label,true_label,evaluation_source
+B1ACNUTCOC40M230320171121.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,combined_all,random_forest_final,0.03439589706448678,0,0,test
+B2ACNUTCOC40M230320171123.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,combined_all,random_forest_final,0.041020872549565886,0,0,test
+D1ACNUTCOC40M230320171124.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,combined_all,random_forest_final,0.20161598498610703,0,0,test
+D2ACNUTCOC40M230320171124.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,combined_all,random_forest_final,0.20748922441927228,0,0,test
+FB1ACNUTCOC40M230320171130.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,combined_all,random_forest_final,0.03137554228323292,0,0,test
+PR1ACNUTCOC40M230320171129.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,combined_all,random_forest_final,0.054896445179325515,0,0,test
+VA1ACNUTCOC40M230320171125.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,combined_all,random_forest_final,0.11921150404915112,0,0,test
+VA2ACNUTCOC40M230320171125.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,combined_all,random_forest_final,0.15475924270101177,0,0,test
+VE1ACNUTCOC40M230320171126.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,combined_all,random_forest_final,0.0897957334674456,0,0,test
+VE2ACNUTCOC40M230320171126.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,combined_all,random_forest_final,0.24807014444243974,0,0,test
+VI1ACNUTCOC40M230320171126.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,combined_all,random_forest_final,0.07721495247228037,0,0,test
+VI2ACNUTCOC40M230320171126.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,combined_all,random_forest_final,0.13563523769432936,0,0,test
+VO1ACNUTCOC40M230320171127.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,combined_all,random_forest_final,0.05566206102171526,0,0,test
+VO2ACNUTCOC40M230320171127.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,combined_all,random_forest_final,0.13572217875997866,0,0,test
+VU1ACNUTCOC40M230320171128.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,combined_all,random_forest_final,0.06774060387419986,0,0,test
+VU2ACNUTCOC40M230320171128.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,combined_all,random_forest_final,0.04555476335131186,0,0,test
+B1LBULCAAS94M100120171053.wav,ipvs::sakar_healthy_Arianna P,ipvs,0,test,ipvs,evaluation_source,combined_all,random_forest_final,0.1708031762394339,0,0,test
+B2LBULCAAS94M100120171053.wav,ipvs::sakar_healthy_Arianna P,ipvs,0,test,ipvs,evaluation_source,combined_all,random_forest_final,0.19007463835733848,0,0,test
+PR1LBULCAAS94M100120171053.wav,ipvs::sakar_healthy_Arianna P,ipvs,0,test,ipvs,evaluation_source,combined_all,random_forest_final,0.18201749276334414,0,0,test
+B1LBULCAAS94M100120171036.wav,ipvs::sakar_healthy_Davide S,ipvs,0,test,ipvs,evaluation_source,combined_all,random_forest_final,0.23404659617070625,0,0,test
+B2LBULCAAS94M100120171036.wav,ipvs::sakar_healthy_Davide S,ipvs,0,test,ipvs,evaluation_source,combined_all,random_forest_final,0.2384726741162318,0,0,test
+PR1LBULCAAS94M100120171036.wav,ipvs::sakar_healthy_Davide S,ipvs,0,test,ipvs,evaluation_source,combined_all,random_forest_final,0.1805418090486394,0,0,test
+B1LBULCAAS94M100120171064.wav,ipvs::sakar_healthy_Gennaro T,ipvs,0,test,ipvs,evaluation_source,combined_all,random_forest_final,0.2763995297344113,0,0,test
+B2LBULCAAS94M100120171064.wav,ipvs::sakar_healthy_Gennaro T,ipvs,0,test,ipvs,evaluation_source,combined_all,random_forest_final,0.2753348488955094,0,0,test
+PR1LBULCAAS94M100120171064.wav,ipvs::sakar_healthy_Gennaro T,ipvs,0,test,ipvs,evaluation_source,combined_all,random_forest_final,0.26575491540091084,0,0,test
+B1LPUUITGI41M230320171109.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,combined_all,random_forest_final,0.03828395401788823,0,0,test
+B2LPUUITGI41M230320171110.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,combined_all,random_forest_final,0.04788653371769497,0,0,test
+D1LPUUITGI41M230320171110.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,combined_all,random_forest_final,0.17497405779357872,0,0,test
+D2LPUUITGI41M230320171111.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,combined_all,random_forest_final,0.18224304382515244,0,0,test
+FB1LPUUITGI41M230320171116.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,combined_all,random_forest_final,0.05146557664923493,0,0,test
+PR1LPUUITGI41M230320171115.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,combined_all,random_forest_final,0.041575313277510566,0,0,test
+VA1LPUUITGI41M230320171111.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,combined_all,random_forest_final,0.12841789454695088,0,0,test
+VA2LPUUITGI41M230320171111.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,combined_all,random_forest_final,0.08770574801134434,0,0,test
+VE1LPUUITGI41M230320171112.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,combined_all,random_forest_final,0.09711836634284364,0,0,test
+VE2LPUUITGI41M230320171112.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,combined_all,random_forest_final,0.07580246520290669,0,0,test
+VI1LPUUITGI41M230320171113.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,combined_all,random_forest_final,0.15249002558295074,0,0,test
+VI2LPUUITGI41M230320171113.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,combined_all,random_forest_final,0.1906251008101677,0,0,test
+VO1LPUUITGI41M230320171113.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,combined_all,random_forest_final,0.1405633642582201,0,0,test
+VO2LPUUITGI41M230320171113.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,combined_all,random_forest_final,0.19050984156791478,0,0,test
+VU1LPUUITGI41M230320171114.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,combined_all,random_forest_final,0.16791121505544876,0,0,test
+VU2LPUUITGI41M230320171114.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,combined_all,random_forest_final,0.06778888179024248,0,0,test
+B1LBULCAAS94M100120171063.wav,ipvs::sakar_healthy_Luca S,ipvs,0,test,ipvs,evaluation_source,combined_all,random_forest_final,0.28499463740860675,0,0,test
+B2LBULCAAS94M100120171063.wav,ipvs::sakar_healthy_Luca S,ipvs,0,test,ipvs,evaluation_source,combined_all,random_forest_final,0.23505302202235995,0,0,test
+PR1LBULCAAS94M100120171063.wav,ipvs::sakar_healthy_Luca S,ipvs,0,test,ipvs,evaluation_source,combined_all,random_forest_final,0.25730484114127256,0,0,test
+B1lbuairgo52M1606161810.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.8478083276305498,1,1,test
+B1sncihcio44M1606161717.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.7280047284625925,1,1,test
+B1ssacvhei61M1606161740.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.9441855458076555,1,1,test
+B1ubguot_t40M1606161755.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.9004234947416297,1,1,test
+B1vsiptioz46M1606161659.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.8598592690585497,1,1,test
+B2lbuairgo52M1606161811.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.8512408666044038,1,1,test
+B2sncihcio44M1606161718.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.8187621563378683,1,1,test
+B2ssacvhei61M1606161741.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.914977093138447,1,1,test
+B2ubguot_t40M1606161756.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.9151663638792574,1,1,test
+B2vsiptioz46M1606161701.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.8066292048803866,1,1,test
+D1lbuairgo52M1606161812.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.9287524575328497,1,1,test
+D1sncihcio44M1606161719.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.8421177549658881,1,1,test
+D1ssacvhei61M1606161742.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.8960931992730292,1,1,test
+D1ubguot_t40M1606161758.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.9141320502760286,1,1,test
+D1vsiptioz46M1606161702.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.9206789891281985,1,1,test
+D2lbuairgo52M1606161812.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.9158697080129917,1,1,test
+D2sncihcio44M1606161719.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.7953554109339773,1,1,test
+D2ssacvhei61M1606161742.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.9057445632775528,1,1,test
+D2ubguot_t40M1606161758.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.8226665757864268,1,1,test
+D2vsiptioz46M1606161704.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.7584427490528897,1,1,test
+FB1lbuairgo52M1606161825.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.9255164903576135,1,1,test
+FB1sncihcio44M1606161728.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.9022189150477885,1,1,test
+FB1ssacvhei61M1606161751.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.9305756006331708,1,1,test
+FB1ubguot_t40M1606161807.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.9042537042500779,1,1,test
+FB1vsiptioz46M1606161712.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.8019255584074482,1,1,test
+PR1lbuairgo52M1606161824.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.784759721287463,1,1,test
+PR1sncihcio44M1606161727.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.8156298861785496,1,1,test
+PR1ssacvhei61M1606161750.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.9506969126842453,1,1,test
+PR1ubguot_t40M1606161806.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.8323884211302673,1,1,test
+PR1vsiptioz46M1606161711.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.9317441825509587,1,1,test
+VA1lbuairgo52M1606161813.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.8303461639223588,1,1,test
+VA1sncihcio44M1606161720.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.8030625475639245,1,1,test
+VA1ssacvhei61M1606161744.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.8759934626368978,1,1,test
+VA1ubguot_t40M1606161759.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.8254698992310744,1,1,test
+VA1vsiptioz46M1606161705.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.6310265973172287,1,1,test
+VA2lbuairgo52M1606161814.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.7577096289356557,1,1,test
+VA2sncihcio44M1606161721.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.5696132141624178,1,1,test
+VA2ssacvhei61M1606161744.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.8255447028622491,1,1,test
+VA2ubguot_t40M1606161759.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.5736945911547211,1,1,test
+VA2vsiptioz46M1606161705.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.689150131351349,1,1,test
+VE1lbuairgo52M1606161815.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.7366767642099749,1,1,test
+VE1sncihcio44M1606161721.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.674020254244049,1,1,test
+VE1ssacvhei61M1606161745.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.9304247732549241,1,1,test
+VE1ubguot_t40M1606161800.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.8426530068857284,1,1,test
+VE1vsiptioz46M1606161706.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.8335512918000072,1,1,test
+VE2lbuairgo52M1606161815.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.7153871562144476,1,1,test
+VE2sncihcio44M1606161722.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.5853242047256654,1,1,test
+VE2ssacvhei61M1606161745.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.7864989467138256,1,1,test
+VE2ubguot_t40M1606161801.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.749669378343365,1,1,test
+VE2vsiptioz46M1606161706.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.7687060541430665,1,1,test
+VI1lbuairgo52M1606161816.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.8426078804521003,1,1,test
+VI1sncihcio44M1606161722.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.8086370729873328,1,1,test
+VI1ssacvhei61M1606161746.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.7882839393913155,1,1,test
+VI1ubguot_t40M1606161801.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.8764705591528261,1,1,test
+VI1vsiptioz46M1606161707.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.7872809433639903,1,1,test
+VI2lbuairgo52M1606161816.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.7155522051403775,1,1,test
+VI2sncihcio44M1606161722.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.7335231486931132,1,1,test
+VI2ssacvhei61M1606161746.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.7507539726128925,1,1,test
+VI2ubguot_t40M1606161802.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.7944596805932338,1,1,test
+VI2vsiptioz46M1606161707.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.6886748879839982,1,1,test
+VO1lbuairgo52M1606161817.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.8127658645783078,1,1,test
+VO1sncihcio44M1606161723.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.8087337360574425,1,1,test
+VO1ssacvhei61M1606161747.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.9304364182996703,1,1,test
+VO1ubguot_t40M1606161802.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.7630064389431962,1,1,test
+VO1vsiptioz46M1606161708.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.6735884969074523,1,1,test
+VO2lbuairgo52M1606161817.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.7279458831451532,1,1,test
+VO2sncihcio44M1606161723.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.7670425748777461,1,1,test
+VO2ssacvhei61M1606161747.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.8255429436777182,1,1,test
+VO2ubguot_t40M1606161803.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.812300550775197,1,1,test
+VO2vsiptioz46M1606161708.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.459781937349985,0,1,test
+VU1lbuairgo52M1606161819.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.8207093419704514,1,1,test
+VU1sncihcio44M1606161724.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.6423858806272325,1,1,test
+VU1ssacvhei61M1606161748.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.6899840339721415,1,1,test
+VU1ubguot_t40M1606161803.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.9220855680401752,1,1,test
+VU1vsiptioz46M1606161709.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.8584165674512598,1,1,test
+VU2lbuairgo52M1606161820.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.6409061965556052,1,1,test
+VU2sncihcio44M1606161725.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.7007144110923997,1,1,test
+VU2ssacvhei61M1606161748.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.5425708048540964,1,1,test
+VU2ubguot_t40M1606161804.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.7985860145524876,1,1,test
+VU2vsiptioz46M1606161709.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,combined_all,random_forest_final,0.735226587018363,1,1,test
+ID00_hc_0_0_0.wav,mdvr-kcl::sakar_ReadText_ID00,mdvr-kcl,0,test,mdvr-kcl,evaluation_source,combined_all,random_forest_final,0.054979157651734806,0,0,test
+ID00_hc_0_0_0.wav,mdvr-kcl::sakar_ReadText_ID00,mdvr-kcl,0,test,mdvr-kcl,evaluation_source,combined_all,random_forest_final,0.054979157651734806,0,0,test
+ID04_pd_2_0_1.wav,mdvr-kcl::sakar_ReadText_ID04,mdvr-kcl,1,test,mdvr-kcl,evaluation_source,combined_all,random_forest_final,0.8769698322800022,1,1,test
+ID04_pd_2_0_1.wav,mdvr-kcl::sakar_ReadText_ID04,mdvr-kcl,1,test,mdvr-kcl,evaluation_source,combined_all,random_forest_final,0.8769698322800022,1,1,test
+ID10_hc_0_0_0.wav,mdvr-kcl::sakar_ReadText_ID10,mdvr-kcl,0,test,mdvr-kcl,evaluation_source,combined_all,random_forest_final,0.035473921339862345,0,0,test
+ID10_hc_0_0_0.wav,mdvr-kcl::sakar_ReadText_ID10,mdvr-kcl,0,test,mdvr-kcl,evaluation_source,combined_all,random_forest_final,0.035473921339862345,0,0,test
+ID12_hc_0_0_0.wav,mdvr-kcl::sakar_ReadText_ID12,mdvr-kcl,0,test,mdvr-kcl,evaluation_source,combined_all,random_forest_final,0.015778171917718808,0,0,test
+ID12_hc_0_0_0.wav,mdvr-kcl::sakar_ReadText_ID12,mdvr-kcl,0,test,mdvr-kcl,evaluation_source,combined_all,random_forest_final,0.015778171917718808,0,0,test
+ID18_pd_4_3_3.wav,mdvr-kcl::sakar_ReadText_ID18,mdvr-kcl,1,test,mdvr-kcl,evaluation_source,combined_all,random_forest_final,0.7123566468859562,1,1,test
+ID18_pd_4_3_3.wav,mdvr-kcl::sakar_ReadText_ID18,mdvr-kcl,1,test,mdvr-kcl,evaluation_source,combined_all,random_forest_final,0.7123566468859562,1,1,test
+ID28_hc_0_0_0.wav,mdvr-kcl::sakar_ReadText_ID28,mdvr-kcl,0,test,mdvr-kcl,evaluation_source,combined_all,random_forest_final,0.10001836165204914,0,0,test
+ID28_hc_0_0_0.wav,mdvr-kcl::sakar_ReadText_ID28,mdvr-kcl,0,test,mdvr-kcl,evaluation_source,combined_all,random_forest_final,0.10001836165204914,0,0,test
+ID34_pd_2_0_0.wav,mdvr-kcl::sakar_ReadText_ID34,mdvr-kcl,1,test,mdvr-kcl,evaluation_source,combined_all,random_forest_final,0.9374812884269779,1,1,test
+ID34_pd_2_0_0.wav,mdvr-kcl::sakar_ReadText_ID34,mdvr-kcl,1,test,mdvr-kcl,evaluation_source,combined_all,random_forest_final,0.9374812884269779,1,1,test
+ID19_hc_0_0_0.wav,mdvr-kcl::sakar_SpontaneousDialogue_ID19,mdvr-kcl,0,test,mdvr-kcl,evaluation_source,combined_all,random_forest_final,0.07139105565696922,0,0,test
+ID19_hc_0_0_0.wav,mdvr-kcl::sakar_SpontaneousDialogue_ID19,mdvr-kcl,0,test,mdvr-kcl,evaluation_source,combined_all,random_forest_final,0.07139105565696922,0,0,test
+ID27_pd_4_1_1.wav,mdvr-kcl::sakar_SpontaneousDialogue_ID27,mdvr-kcl,1,test,mdvr-kcl,evaluation_source,combined_all,random_forest_final,0.9243381698336474,1,1,test
+ID27_pd_4_1_1.wav,mdvr-kcl::sakar_SpontaneousDialogue_ID27,mdvr-kcl,1,test,mdvr-kcl,evaluation_source,combined_all,random_forest_final,0.9243381698336474,1,1,test
+ID29_pd_3_1_2.wav,mdvr-kcl::sakar_SpontaneousDialogue_ID29,mdvr-kcl,1,test,mdvr-kcl,evaluation_source,combined_all,random_forest_final,0.9618852299905706,1,1,test
+ID29_pd_3_1_2.wav,mdvr-kcl::sakar_SpontaneousDialogue_ID29,mdvr-kcl,1,test,mdvr-kcl,evaluation_source,combined_all,random_forest_final,0.9618852299905706,1,1,test
+ID36_hc_0_0_0.wav,mdvr-kcl::sakar_SpontaneousDialogue_ID36,mdvr-kcl,0,test,mdvr-kcl,evaluation_source,combined_all,random_forest_final,0.07979083122374553,0,0,test
+ID36_hc_0_0_0.wav,mdvr-kcl::sakar_SpontaneousDialogue_ID36,mdvr-kcl,0,test,mdvr-kcl,evaluation_source,combined_all,random_forest_final,0.07979083122374553,0,0,test
+AH_064F_7AB034C9-72E4-438B-A9B3-AD7FDA1596C5.wav,uams::generic_AH_064F_7AB034C9-72E4-438B-A9B3-AD7FDA1596C5,uams,0,test,uams,evaluation_source,combined_all,random_forest_final,0.5162915014404491,1,0,test
+AH_064F_7AB034C9-72E4-438B-A9B3-AD7FDA1596C5.wav,uams::generic_AH_064F_7AB034C9-72E4-438B-A9B3-AD7FDA1596C5,uams,0,test,uams,evaluation_source,combined_all,random_forest_final,0.5162915014404491,1,0,test
+AH_195B_39DA6A45-F4CC-492A-80D4-FB79049ACC22.wav,uams::generic_AH_195B_39DA6A45-F4CC-492A-80D4-FB79049ACC22,uams,0,test,uams,evaluation_source,combined_all,random_forest_final,0.39306634734473617,0,0,test
+AH_195B_39DA6A45-F4CC-492A-80D4-FB79049ACC22.wav,uams::generic_AH_195B_39DA6A45-F4CC-492A-80D4-FB79049ACC22,uams,0,test,uams,evaluation_source,combined_all,random_forest_final,0.39306634734473617,0,0,test
+AH_325A_3EB21DC7-C340-4D0E-AC9E-0EABF217BBEE.wav,uams::generic_AH_325A_3EB21DC7-C340-4D0E-AC9E-0EABF217BBEE,uams,0,test,uams,evaluation_source,combined_all,random_forest_final,0.2941428901895947,0,0,test
+AH_325A_3EB21DC7-C340-4D0E-AC9E-0EABF217BBEE.wav,uams::generic_AH_325A_3EB21DC7-C340-4D0E-AC9E-0EABF217BBEE,uams,0,test,uams,evaluation_source,combined_all,random_forest_final,0.2941428901895947,0,0,test
+AH_333L_6C551A6E-CC47-410E-AA49-2DC0A86E6489.wav,uams::generic_AH_333L_6C551A6E-CC47-410E-AA49-2DC0A86E6489,uams,0,test,uams,evaluation_source,combined_all,random_forest_final,0.4944894904815129,0,0,test
+AH_333L_6C551A6E-CC47-410E-AA49-2DC0A86E6489.wav,uams::generic_AH_333L_6C551A6E-CC47-410E-AA49-2DC0A86E6489,uams,0,test,uams,evaluation_source,combined_all,random_forest_final,0.4944894904815129,0,0,test
+AH_473R_E4947FD3-23C1-44F1-BCE4-DC59D8269FDE.wav,uams::generic_AH_473R_E4947FD3-23C1-44F1-BCE4-DC59D8269FDE,uams,0,test,uams,evaluation_source,combined_all,random_forest_final,0.5113714431834944,1,0,test
+AH_473R_E4947FD3-23C1-44F1-BCE4-DC59D8269FDE.wav,uams::generic_AH_473R_E4947FD3-23C1-44F1-BCE4-DC59D8269FDE,uams,0,test,uams,evaluation_source,combined_all,random_forest_final,0.5113714431834944,1,0,test
+AH_528T_6A746E6E-FB60-4363-842F-A7368A1E5B2C.wav,uams::generic_AH_528T_6A746E6E-FB60-4363-842F-A7368A1E5B2C,uams,0,test,uams,evaluation_source,combined_all,random_forest_final,0.3983381378487515,0,0,test
+AH_528T_6A746E6E-FB60-4363-842F-A7368A1E5B2C.wav,uams::generic_AH_528T_6A746E6E-FB60-4363-842F-A7368A1E5B2C,uams,0,test,uams,evaluation_source,combined_all,random_forest_final,0.3983381378487515,0,0,test
+AH_545622720-E1486AF6-8C95-47EB-829B-4D62698C987A.wav,uams::generic_AH_545622720-E1486AF6-8C95-47EB-829B-4D62698C987A,uams,1,test,uams,evaluation_source,combined_all,random_forest_final,0.6189426719300477,1,1,test
+AH_545622720-E1486AF6-8C95-47EB-829B-4D62698C987A.wav,uams::generic_AH_545622720-E1486AF6-8C95-47EB-829B-4D62698C987A,uams,1,test,uams,evaluation_source,combined_all,random_forest_final,0.6189426719300477,1,1,test
+AH_545629296-C2C009C6-8C17-42EA-B6BE-362942FC4692.wav,uams::generic_AH_545629296-C2C009C6-8C17-42EA-B6BE-362942FC4692,uams,1,test,uams,evaluation_source,combined_all,random_forest_final,0.502122137938501,1,1,test
+AH_545629296-C2C009C6-8C17-42EA-B6BE-362942FC4692.wav,uams::generic_AH_545629296-C2C009C6-8C17-42EA-B6BE-362942FC4692,uams,1,test,uams,evaluation_source,combined_all,random_forest_final,0.502122137938501,1,1,test
+AH_545643618-82A143AC-B643-4273-A923-C42A83AEEC5F.wav,uams::generic_AH_545643618-82A143AC-B643-4273-A923-C42A83AEEC5F,uams,1,test,uams,evaluation_source,combined_all,random_forest_final,0.47312921610649555,0,1,test
+AH_545643618-82A143AC-B643-4273-A923-C42A83AEEC5F.wav,uams::generic_AH_545643618-82A143AC-B643-4273-A923-C42A83AEEC5F,uams,1,test,uams,evaluation_source,combined_all,random_forest_final,0.47312921610649555,0,1,test
+AH_545692309-EA8C4DC0-9B2A-4CC7-A490-851A2129A733.wav,uams::generic_AH_545692309-EA8C4DC0-9B2A-4CC7-A490-851A2129A733,uams,1,test,uams,evaluation_source,combined_all,random_forest_final,0.5554963752657955,1,1,test
+AH_545692309-EA8C4DC0-9B2A-4CC7-A490-851A2129A733.wav,uams::generic_AH_545692309-EA8C4DC0-9B2A-4CC7-A490-851A2129A733,uams,1,test,uams,evaluation_source,combined_all,random_forest_final,0.5554963752657955,1,1,test
+AH_545789680-7FF9D4F1-DDCC-4CB6-8668-76530D670FA5.wav,uams::generic_AH_545789680-7FF9D4F1-DDCC-4CB6-8668-76530D670FA5,uams,1,test,uams,evaluation_source,combined_all,random_forest_final,0.5312923129728463,1,1,test
+AH_545789680-7FF9D4F1-DDCC-4CB6-8668-76530D670FA5.wav,uams::generic_AH_545789680-7FF9D4F1-DDCC-4CB6-8668-76530D670FA5,uams,1,test,uams,evaluation_source,combined_all,random_forest_final,0.5312923129728463,1,1,test
+AH_619B_5CF9C4CA-31AA-4F22-8E57-8E53618CC224.wav,uams::generic_AH_619B_5CF9C4CA-31AA-4F22-8E57-8E53618CC224,uams,0,test,uams,evaluation_source,combined_all,random_forest_final,0.6686036582212886,1,0,test
+AH_619B_5CF9C4CA-31AA-4F22-8E57-8E53618CC224.wav,uams::generic_AH_619B_5CF9C4CA-31AA-4F22-8E57-8E53618CC224,uams,0,test,uams,evaluation_source,combined_all,random_forest_final,0.6686036582212886,1,0,test
+AH_678A_2E7AFA48-34C1-4DAD-A73C-95F7ABF6B138.wav,uams::generic_AH_678A_2E7AFA48-34C1-4DAD-A73C-95F7ABF6B138,uams,0,test,uams,evaluation_source,combined_all,random_forest_final,0.4944347001217192,0,0,test
+AH_678A_2E7AFA48-34C1-4DAD-A73C-95F7ABF6B138.wav,uams::generic_AH_678A_2E7AFA48-34C1-4DAD-A73C-95F7ABF6B138,uams,0,test,uams,evaluation_source,combined_all,random_forest_final,0.4944347001217192,0,0,test

@@ -1,0 +1,5 @@
+scenario,model,split,evaluation_level,subset,n_samples,accuracy,balanced_accuracy,precision,recall,f1,roc_auc,tn,fp,fn,tp
+cross_uams_to_ipvs,logreg_final,test,file,all,124,0.3548387096774194,0.29034090909090904,0.5,0.5125,0.5061728395061729,0.20823863636363638,3,41,39,41
+cross_uams_to_ipvs,logreg_final,test,file,ipvs,124,0.3548387096774194,0.29034090909090904,0.5,0.5125,0.5061728395061729,0.20823863636363638,3,41,39,41
+cross_uams_to_ipvs,logreg_final,test,patient,all,7,0.14285714285714285,0.5,0.14285714285714285,1.0,0.25,0.0,0,6,0,1
+cross_uams_to_ipvs,logreg_final,test,patient,ipvs,7,0.14285714285714285,0.5,0.14285714285714285,1.0,0.25,0.0,0,6,0,1

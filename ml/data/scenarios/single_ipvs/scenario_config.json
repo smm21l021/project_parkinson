@@ -1,0 +1,18 @@
+{
+  "name": "single_ipvs",
+  "kind": "single",
+  "description": "Train/validate/test only on the IPVS dataset.",
+  "train_datasets": [
+    "ipvs"
+  ],
+  "val_datasets": [
+    "ipvs"
+  ],
+  "test_datasets": [
+    "ipvs"
+  ],
+  "final_fit_splits": [
+    "train",
+    "val"
+  ]
+}

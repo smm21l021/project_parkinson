@@ -1,0 +1,125 @@
+filename,patient_id,dataset,label,split,source_dataset,dataset_role,scenario,model,score,pred_label,true_label,evaluation_source
+B1ACNUTCOC40M230320171121.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,0,test
+B2ACNUTCOC40M230320171123.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,0,test
+D1ACNUTCOC40M230320171124.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,0,test
+D2ACNUTCOC40M230320171124.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,0,test
+FB1ACNUTCOC40M230320171130.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,0,test
+PR1ACNUTCOC40M230320171129.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,0,test
+VA1ACNUTCOC40M230320171125.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,0,test
+VA2ACNUTCOC40M230320171125.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,0,test
+VE1ACNUTCOC40M230320171126.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,0,test
+VE2ACNUTCOC40M230320171126.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,0,test
+VI1ACNUTCOC40M230320171126.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,0,test
+VI2ACNUTCOC40M230320171126.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,0,test
+VO1ACNUTCOC40M230320171127.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,0,test
+VO2ACNUTCOC40M230320171127.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,0.9999999999999931,1,0,test
+VU1ACNUTCOC40M230320171128.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,0.9973021029848701,1,0,test
+VU2ACNUTCOC40M230320171128.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,0.00972785088851595,0,0,test
+B1LBULCAAS94M100120171053.wav,ipvs::sakar_healthy_Arianna P,ipvs,0,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,0,test
+B2LBULCAAS94M100120171053.wav,ipvs::sakar_healthy_Arianna P,ipvs,0,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,0,test
+PR1LBULCAAS94M100120171053.wav,ipvs::sakar_healthy_Arianna P,ipvs,0,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,0,test
+B1LBULCAAS94M100120171036.wav,ipvs::sakar_healthy_Davide S,ipvs,0,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,0,test
+B2LBULCAAS94M100120171036.wav,ipvs::sakar_healthy_Davide S,ipvs,0,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,0,test
+PR1LBULCAAS94M100120171036.wav,ipvs::sakar_healthy_Davide S,ipvs,0,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,0,test
+B1LBULCAAS94M100120171064.wav,ipvs::sakar_healthy_Gennaro T,ipvs,0,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,0,test
+B2LBULCAAS94M100120171064.wav,ipvs::sakar_healthy_Gennaro T,ipvs,0,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,0,test
+PR1LBULCAAS94M100120171064.wav,ipvs::sakar_healthy_Gennaro T,ipvs,0,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,0,test
+B1LPUUITGI41M230320171109.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,0.999960288234911,1,0,test
+B2LPUUITGI41M230320171110.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,0.0020693919551598608,0,0,test
+D1LPUUITGI41M230320171110.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,0,test
+D2LPUUITGI41M230320171111.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,0,test
+FB1LPUUITGI41M230320171116.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,0,test
+PR1LPUUITGI41M230320171115.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,0,test
+VA1LPUUITGI41M230320171111.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,0.9999594544797379,1,0,test
+VA2LPUUITGI41M230320171111.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,0.999999999998975,1,0,test
+VE1LPUUITGI41M230320171112.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,0,test
+VE2LPUUITGI41M230320171112.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,0.9999999999997398,1,0,test
+VI1LPUUITGI41M230320171113.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,0,test
+VI2LPUUITGI41M230320171113.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,0,test
+VO1LPUUITGI41M230320171113.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,0.9999999998932556,1,0,test
+VO2LPUUITGI41M230320171113.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.4599703846631298e-05,0,0,test
+VU1LPUUITGI41M230320171114.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,0,test
+VU2LPUUITGI41M230320171114.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,0.8367569341394802,1,0,test
+B1LBULCAAS94M100120171063.wav,ipvs::sakar_healthy_Luca S,ipvs,0,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,0,test
+B2LBULCAAS94M100120171063.wav,ipvs::sakar_healthy_Luca S,ipvs,0,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,0,test
+PR1LBULCAAS94M100120171063.wav,ipvs::sakar_healthy_Luca S,ipvs,0,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,0,test
+B1lbuairgo52M1606161810.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,3.9903346374241094e-08,0,1,test
+B1sncihcio44M1606161717.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,1,test
+B1ssacvhei61M1606161740.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.5252527137629261e-07,0,1,test
+B1ubguot_t40M1606161755.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,0.9941583519987677,1,1,test
+B1vsiptioz46M1606161659.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.7240674325688732e-06,0,1,test
+B2lbuairgo52M1606161811.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,6.3781415235852905e-09,0,1,test
+B2sncihcio44M1606161718.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,1,test
+B2ssacvhei61M1606161741.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,7.023085080350625e-09,0,1,test
+B2ubguot_t40M1606161756.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,0.9998220683383342,1,1,test
+B2vsiptioz46M1606161701.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,4.35494134196493e-05,0,1,test
+D1lbuairgo52M1606161812.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,1,test
+D1sncihcio44M1606161719.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,1,test
+D1ssacvhei61M1606161742.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,1,test
+D1ubguot_t40M1606161758.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,1,test
+D1vsiptioz46M1606161702.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,1,test
+D2lbuairgo52M1606161812.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,1,test
+D2sncihcio44M1606161719.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,1,test
+D2ssacvhei61M1606161742.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,1,test
+D2ubguot_t40M1606161758.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,1,test
+D2vsiptioz46M1606161704.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,0.9999999999999645,1,1,test
+FB1lbuairgo52M1606161825.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,1,test
+FB1sncihcio44M1606161728.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,1,test
+FB1ssacvhei61M1606161751.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,4.0252496495955295e-12,0,1,test
+FB1ubguot_t40M1606161807.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,0.99999999349127,1,1,test
+FB1vsiptioz46M1606161712.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,0.9999998867848517,1,1,test
+PR1lbuairgo52M1606161824.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,3.75964041964014e-05,0,1,test
+PR1sncihcio44M1606161727.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,1,test
+PR1ssacvhei61M1606161750.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,0.999999971115145,1,1,test
+PR1ubguot_t40M1606161806.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,1,test
+PR1vsiptioz46M1606161711.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,1,test
+VA1lbuairgo52M1606161813.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,0.9999999998556997,1,1,test
+VA1sncihcio44M1606161720.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,0.9999999960161969,1,1,test
+VA1ssacvhei61M1606161744.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,0.13848628955068465,0,1,test
+VA1ubguot_t40M1606161759.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,1,test
+VA1vsiptioz46M1606161705.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,0.9999935809280714,1,1,test
+VA2lbuairgo52M1606161814.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,2.8400336722413064e-08,0,1,test
+VA2sncihcio44M1606161721.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,1,test
+VA2ssacvhei61M1606161744.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.6635296106253077e-11,0,1,test
+VA2ubguot_t40M1606161759.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,0.9764009393495725,1,1,test
+VA2vsiptioz46M1606161705.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,4.741711152645829e-11,0,1,test
+VE1lbuairgo52M1606161815.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,1,test
+VE1sncihcio44M1606161721.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,1,test
+VE1ssacvhei61M1606161745.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,0.96726109826532,1,1,test
+VE1ubguot_t40M1606161800.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,0.9996041447085654,1,1,test
+VE1vsiptioz46M1606161706.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,0.9999924557109412,1,1,test
+VE2lbuairgo52M1606161815.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,1,test
+VE2sncihcio44M1606161722.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0,1,1,test
+VE2ssacvhei61M1606161745.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,9.557919918230999e-21,0,1,test
+VE2ubguot_t40M1606161801.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,0.9999998050106143,1,1,test
+VE2vsiptioz46M1606161706.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,6.99806065137346e-17,0,1,test
+VI1lbuairgo52M1606161816.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,0.9999999999971523,1,1,test
+VI1sncihcio44M1606161722.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,0.9999958695226604,1,1,test
+VI1ssacvhei61M1606161746.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,0.02633597359432469,0,1,test
+VI1ubguot_t40M1606161801.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,3.734030621673803e-09,0,1,test
+VI1vsiptioz46M1606161707.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,0.01317825151599038,0,1,test
+VI2lbuairgo52M1606161816.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,0.8405370167742569,1,1,test
+VI2sncihcio44M1606161722.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,0.9999990863780497,1,1,test
+VI2ssacvhei61M1606161746.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.4806148649349484e-26,0,1,test
+VI2ubguot_t40M1606161802.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.0759028234942973e-11,0,1,test
+VI2vsiptioz46M1606161707.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,2.3010078630689912e-07,0,1,test
+VO1lbuairgo52M1606161817.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,9.30935616130864e-08,0,1,test
+VO1sncihcio44M1606161723.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,0.6282290442649563,1,1,test
+VO1ssacvhei61M1606161747.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,3.0034197850163803e-13,0,1,test
+VO1ubguot_t40M1606161802.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,5.890207702800177e-07,0,1,test
+VO1vsiptioz46M1606161708.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,6.049583688507847e-09,0,1,test
+VO2lbuairgo52M1606161817.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.4134759973816584e-20,0,1,test
+VO2sncihcio44M1606161723.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,7.63210670319771e-11,0,1,test
+VO2ssacvhei61M1606161747.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.1459417728642147e-32,0,1,test
+VO2ubguot_t40M1606161803.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,3.7942321547412377e-11,0,1,test
+VO2vsiptioz46M1606161708.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,3.2444329497783266e-09,0,1,test
+VU1lbuairgo52M1606161819.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,2.272941904343954e-09,0,1,test
+VU1sncihcio44M1606161724.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,7.825022625267129e-11,0,1,test
+VU1ssacvhei61M1606161748.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,5.359073467458403e-13,0,1,test
+VU1ubguot_t40M1606161803.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,2.230677856427882e-11,0,1,test
+VU1vsiptioz46M1606161709.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.840188559650091e-14,0,1,test
+VU2lbuairgo52M1606161820.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.3542943130473124e-28,0,1,test
+VU2sncihcio44M1606161725.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,8.330271104007375e-18,0,1,test
+VU2ssacvhei61M1606161748.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,5.697168491798468e-15,0,1,test
+VU2ubguot_t40M1606161804.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,1.786120921476301e-30,0,1,test
+VU2vsiptioz46M1606161709.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_uams_to_ipvs,logreg_final,2.6230316688994083e-18,0,1,test

@@ -1,0 +1,17 @@
+{
+  "name": "cross_uams_to_ipvs",
+  "kind": "cross",
+  "description": "Train on UAMS (train split), select on IPVS (val split), and test on IPVS (test split).",
+  "train_datasets": [
+    "uams"
+  ],
+  "val_datasets": [
+    "ipvs"
+  ],
+  "test_datasets": [
+    "ipvs"
+  ],
+  "final_fit_splits": [
+    "train"
+  ]
+}

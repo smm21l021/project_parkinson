@@ -1,0 +1,34 @@
+{
+  "scenario": "single_ipvs",
+  "kind": "single",
+  "description": "Train/validate/test only on the IPVS dataset.",
+  "datasets": {
+    "train": [
+      "ipvs"
+    ],
+    "val": [
+      "ipvs"
+    ],
+    "test": [
+      "ipvs"
+    ]
+  },
+  "final_fit_splits": [
+    "train",
+    "val"
+  ],
+  "n_rows": 831,
+  "n_patients": 41,
+  "split_counts": {
+    "test": 124,
+    "train": 637,
+    "val": 70
+  },
+  "dataset_counts": {
+    "ipvs": 831
+  },
+  "class_counts": {
+    "0": 394,
+    "1": 437
+  }
+}

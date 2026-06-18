@@ -1,0 +1,4 @@
+scenario,model,cv_best_score,cv_n_splits,val_patient_f1,val_patient_roc_auc,best_params
+single_ipvs,logreg,0.9943462191589252,5,0.0,,"{""model__C"": 5.0, ""model__class_weight"": ""balanced"", ""model__solver"": ""liblinear""}"
+single_ipvs,svm,0.9972220882565711,5,0.0,,"{""model__C"": 5.0, ""model__class_weight"": null, ""model__gamma"": ""scale"", ""model__kernel"": ""rbf""}"
+single_ipvs,random_forest,0.980399061032864,5,0.0,,"{""model__class_weight"": null, ""model__max_depth"": null, ""model__min_samples_leaf"": 2, ""model__n_estimators"": 300}"

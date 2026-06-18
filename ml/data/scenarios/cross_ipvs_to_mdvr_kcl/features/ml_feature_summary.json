@@ -1,0 +1,34 @@
+{
+  "scenario": "cross_ipvs_to_mdvr_kcl",
+  "kind": "cross",
+  "description": "Train on IPVS (train split), select on MDVR-KCL (val split), and test on MDVR-KCL (test split).",
+  "datasets": {
+    "train": [
+      "ipvs"
+    ],
+    "val": [
+      "mdvr-kcl"
+    ],
+    "test": [
+      "mdvr-kcl"
+    ]
+  },
+  "final_fit_splits": [
+    "train"
+  ],
+  "n_rows": 681,
+  "n_patients": 50,
+  "split_counts": {
+    "test": 22,
+    "train": 637,
+    "val": 22
+  },
+  "dataset_counts": {
+    "ipvs": 637,
+    "mdvr-kcl": 44
+  },
+  "class_counts": {
+    "0": 304,
+    "1": 377
+  }
+}

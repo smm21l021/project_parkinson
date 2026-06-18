@@ -1,0 +1,9 @@
+scenario,model,split,evaluation_level,subset,n_samples,accuracy,balanced_accuracy,precision,recall,f1,roc_auc,tn,fp,fn,tp
+combined_all,random_forest_final,test,file,all,172,0.9476744186046512,0.9433333333333334,0.941747572815534,0.97,0.9556650246305419,0.9905555555555555,66,6,3,97
+combined_all,random_forest_final,test,file,ipvs,124,0.9919354838709677,0.99375,1.0,0.9875,0.9937106918238994,1.0,44,0,1,79
+combined_all,random_forest_final,test,file,mdvr-kcl,22,1.0,1.0,1.0,1.0,1.0,1.0,12,0,0,10
+combined_all,random_forest_final,test,file,uams,26,0.6923076923076923,0.7125,0.5714285714285714,0.8,0.6666666666666666,0.725,10,6,2,8
+combined_all,random_forest_final,test,patient,all,31,0.8709677419354839,0.8795454545454545,0.7692307692307693,0.9090909090909091,0.8333333333333334,0.95,17,3,1,10
+combined_all,random_forest_final,test,patient,ipvs,7,1.0,1.0,1.0,1.0,1.0,1.0,6,0,0,1
+combined_all,random_forest_final,test,patient,mdvr-kcl,11,1.0,1.0,1.0,1.0,1.0,1.0,6,0,0,5
+combined_all,random_forest_final,test,patient,uams,13,0.6923076923076923,0.7125,0.5714285714285714,0.8,0.6666666666666666,0.725,5,3,1,4

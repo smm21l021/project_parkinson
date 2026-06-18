@@ -1,0 +1,4 @@
+scenario,model,cv_best_score,cv_n_splits,val_patient_f1,val_patient_roc_auc,best_params
+single_mdvr_kcl,logreg,1.0,5,0.9090909090909091,1.0,"{""model__C"": 0.1, ""model__class_weight"": null, ""model__solver"": ""liblinear""}"
+single_mdvr_kcl,random_forest,1.0,5,0.8333333333333334,1.0,"{""model__class_weight"": null, ""model__max_depth"": null, ""model__min_samples_leaf"": 1, ""model__n_estimators"": 300}"
+single_mdvr_kcl,svm,1.0,5,0.7142857142857143,1.0,"{""model__C"": 1.0, ""model__class_weight"": ""balanced"", ""model__gamma"": ""scale"", ""model__kernel"": ""rbf""}"

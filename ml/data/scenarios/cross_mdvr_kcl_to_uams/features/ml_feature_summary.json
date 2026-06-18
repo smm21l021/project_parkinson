@@ -1,0 +1,34 @@
+{
+  "scenario": "cross_mdvr_kcl_to_uams",
+  "kind": "cross",
+  "description": "Train on MDVR-KCL (train split), select on UAMS (val split), and test on UAMS (test split).",
+  "datasets": {
+    "train": [
+      "mdvr-kcl"
+    ],
+    "val": [
+      "uams"
+    ],
+    "test": [
+      "uams"
+    ]
+  },
+  "final_fit_splits": [
+    "train"
+  ],
+  "n_rows": 152,
+  "n_patients": 76,
+  "split_counts": {
+    "test": 26,
+    "train": 102,
+    "val": 24
+  },
+  "dataset_counts": {
+    "mdvr-kcl": 102,
+    "uams": 50
+  },
+  "class_counts": {
+    "0": 92,
+    "1": 60
+  }
+}

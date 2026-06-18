@@ -1,0 +1,42 @@
+{
+  "scenario": "combined_all",
+  "kind": "combined",
+  "description": "Train/validate/test on the union of UAMS, IPVS and MDVR-KCL.",
+  "datasets": {
+    "train": [
+      "uams",
+      "ipvs",
+      "mdvr-kcl"
+    ],
+    "val": [
+      "uams",
+      "ipvs",
+      "mdvr-kcl"
+    ],
+    "test": [
+      "uams",
+      "ipvs",
+      "mdvr-kcl"
+    ]
+  },
+  "final_fit_splits": [
+    "train",
+    "val"
+  ],
+  "n_rows": 1139,
+  "n_patients": 195,
+  "split_counts": {
+    "test": 172,
+    "train": 851,
+    "val": 116
+  },
+  "dataset_counts": {
+    "ipvs": 831,
+    "mdvr-kcl": 146,
+    "uams": 162
+  },
+  "class_counts": {
+    "0": 560,
+    "1": 579
+  }
+}

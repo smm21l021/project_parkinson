@@ -1,0 +1,19 @@
+{
+  "scenario": "cross_mdvr_kcl_to_ipvs",
+  "feature_count": 337,
+  "models_trained": [
+    "logreg",
+    "svm",
+    "random_forest"
+  ],
+  "selected_model": "logreg",
+  "selection_metric": "validation patient-level F1",
+  "cv_n_splits": 5,
+  "n_train": 102,
+  "n_val": 70,
+  "n_test": 124,
+  "n_final_fit": 102,
+  "final_fit_splits": [
+    "train"
+  ]
+}

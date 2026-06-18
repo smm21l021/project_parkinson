@@ -1,0 +1,10 @@
+{
+  "best_hyperparams": {
+    "learning_rate": 0.0005,
+    "batch_size": 16,
+    "dropout": 0.4,
+    "num_epochs": 15
+  },
+  "best_f1": 0.8928774928774929,
+  "best_roc_auc": 0.9442857142857143
+}

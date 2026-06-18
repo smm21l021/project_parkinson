@@ -1,0 +1,208 @@
+{
+  "project_root": "C:\\Users\\horso\\Documents\\stud\\Python\\Pipeline\\parkinson_project\\parkinson_project",
+  "ml_root": "C:\\Users\\horso\\Documents\\stud\\Python\\Pipeline\\parkinson_project\\parkinson_project\\ml",
+  "selected_scenarios": [
+    "single_uams",
+    "single_ipvs",
+    "single_mdvr_kcl",
+    "combined_all",
+    "cross_uams_to_ipvs",
+    "cross_uams_to_mdvr_kcl",
+    "cross_ipvs_to_uams",
+    "cross_ipvs_to_mdvr_kcl",
+    "cross_mdvr_kcl_to_uams",
+    "cross_mdvr_kcl_to_ipvs"
+  ],
+  "datasets": [
+    "uams",
+    "ipvs",
+    "mdvr-kcl"
+  ],
+  "scenario_specs": {
+    "single_uams": {
+      "name": "single_uams",
+      "kind": "single",
+      "description": "Train/validate/test only on the UAMS dataset.",
+      "train_datasets": [
+        "uams"
+      ],
+      "val_datasets": [
+        "uams"
+      ],
+      "test_datasets": [
+        "uams"
+      ],
+      "final_fit_splits": [
+        "train",
+        "val"
+      ]
+    },
+    "single_ipvs": {
+      "name": "single_ipvs",
+      "kind": "single",
+      "description": "Train/validate/test only on the IPVS dataset.",
+      "train_datasets": [
+        "ipvs"
+      ],
+      "val_datasets": [
+        "ipvs"
+      ],
+      "test_datasets": [
+        "ipvs"
+      ],
+      "final_fit_splits": [
+        "train",
+        "val"
+      ]
+    },
+    "single_mdvr_kcl": {
+      "name": "single_mdvr_kcl",
+      "kind": "single",
+      "description": "Train/validate/test only on the MDVR-KCL dataset.",
+      "train_datasets": [
+        "mdvr-kcl"
+      ],
+      "val_datasets": [
+        "mdvr-kcl"
+      ],
+      "test_datasets": [
+        "mdvr-kcl"
+      ],
+      "final_fit_splits": [
+        "train",
+        "val"
+      ]
+    },
+    "combined_all": {
+      "name": "combined_all",
+      "kind": "combined",
+      "description": "Train/validate/test on the union of UAMS, IPVS and MDVR-KCL.",
+      "train_datasets": [
+        "uams",
+        "ipvs",
+        "mdvr-kcl"
+      ],
+      "val_datasets": [
+        "uams",
+        "ipvs",
+        "mdvr-kcl"
+      ],
+      "test_datasets": [
+        "uams",
+        "ipvs",
+        "mdvr-kcl"
+      ],
+      "final_fit_splits": [
+        "train",
+        "val"
+      ]
+    },
+    "cross_uams_to_ipvs": {
+      "name": "cross_uams_to_ipvs",
+      "kind": "cross",
+      "description": "Train on UAMS (train split), select on IPVS (val split), and test on IPVS (test split).",
+      "train_datasets": [
+        "uams"
+      ],
+      "val_datasets": [
+        "ipvs"
+      ],
+      "test_datasets": [
+        "ipvs"
+      ],
+      "final_fit_splits": [
+        "train"
+      ]
+    },
+    "cross_uams_to_mdvr_kcl": {
+      "name": "cross_uams_to_mdvr_kcl",
+      "kind": "cross",
+      "description": "Train on UAMS (train split), select on MDVR-KCL (val split), and test on MDVR-KCL (test split).",
+      "train_datasets": [
+        "uams"
+      ],
+      "val_datasets": [
+        "mdvr-kcl"
+      ],
+      "test_datasets": [
+        "mdvr-kcl"
+      ],
+      "final_fit_splits": [
+        "train"
+      ]
+    },
+    "cross_ipvs_to_uams": {
+      "name": "cross_ipvs_to_uams",
+      "kind": "cross",
+      "description": "Train on IPVS (train split), select on UAMS (val split), and test on UAMS (test split).",
+      "train_datasets": [
+        "ipvs"
+      ],
+      "val_datasets": [
+        "uams"
+      ],
+      "test_datasets": [
+        "uams"
+      ],
+      "final_fit_splits": [
+        "train"
+      ]
+    },
+    "cross_ipvs_to_mdvr_kcl": {
+      "name": "cross_ipvs_to_mdvr_kcl",
+      "kind": "cross",
+      "description": "Train on IPVS (train split), select on MDVR-KCL (val split), and test on MDVR-KCL (test split).",
+      "train_datasets": [
+        "ipvs"
+      ],
+      "val_datasets": [
+        "mdvr-kcl"
+      ],
+      "test_datasets": [
+        "mdvr-kcl"
+      ],
+      "final_fit_splits": [
+        "train"
+      ]
+    },
+    "cross_mdvr_kcl_to_uams": {
+      "name": "cross_mdvr_kcl_to_uams",
+      "kind": "cross",
+      "description": "Train on MDVR-KCL (train split), select on UAMS (val split), and test on UAMS (test split).",
+      "train_datasets": [
+        "mdvr-kcl"
+      ],
+      "val_datasets": [
+        "uams"
+      ],
+      "test_datasets": [
+        "uams"
+      ],
+      "final_fit_splits": [
+        "train"
+      ]
+    },
+    "cross_mdvr_kcl_to_ipvs": {
+      "name": "cross_mdvr_kcl_to_ipvs",
+      "kind": "cross",
+      "description": "Train on MDVR-KCL (train split), select on IPVS (val split), and test on IPVS (test split).",
+      "train_datasets": [
+        "mdvr-kcl"
+      ],
+      "val_datasets": [
+        "ipvs"
+      ],
+      "test_datasets": [
+        "ipvs"
+      ],
+      "final_fit_splits": [
+        "train"
+      ]
+    }
+  },
+  "dataset_metadata_paths": {
+    "uams": "C:\\Users\\horso\\Documents\\stud\\Python\\Pipeline\\parkinson_project\\parkinson_project\\data\\uams\\metadata.csv",
+    "ipvs": "C:\\Users\\horso\\Documents\\stud\\Python\\Pipeline\\parkinson_project\\parkinson_project\\data\\irvs\\metadata.csv",
+    "mdvr-kcl": "C:\\Users\\horso\\Documents\\stud\\Python\\Pipeline\\parkinson_project\\parkinson_project\\data\\mdvr-kcl\\metadata.csv"
+  }
+}

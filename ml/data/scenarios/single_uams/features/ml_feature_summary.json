@@ -1,0 +1,34 @@
+{
+  "scenario": "single_uams",
+  "kind": "single",
+  "description": "Train/validate/test only on the UAMS dataset.",
+  "datasets": {
+    "train": [
+      "uams"
+    ],
+    "val": [
+      "uams"
+    ],
+    "test": [
+      "uams"
+    ]
+  },
+  "final_fit_splits": [
+    "train",
+    "val"
+  ],
+  "n_rows": 162,
+  "n_patients": 81,
+  "split_counts": {
+    "test": 26,
+    "train": 112,
+    "val": 24
+  },
+  "dataset_counts": {
+    "uams": 162
+  },
+  "class_counts": {
+    "0": 82,
+    "1": 80
+  }
+}

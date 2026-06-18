@@ -1,0 +1,583 @@
+filename,patient_id,dataset,label,split,source_dataset,dataset_role,scenario,model,score,pred_label,true_label,evaluation_source
+B1LBULCAAS94M100120171056.wav,ipvs::sakar_healthy_Biagio P,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9999957338149853,1,0,val
+B2LBULCAAS94M100120171056.wav,ipvs::sakar_healthy_Biagio P,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9911391713547189,1,0,val
+PR1LBULCAAS94M100120171056.wav,ipvs::sakar_healthy_Biagio P,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9995812658158006,1,0,val
+B1GGRIAUZL45F020420171817.wav,ipvs::sakar_healthy_GRAZIA G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,1.421988914407129e-05,0,0,val
+B2GGRIAUZL45F020420171820.wav,ipvs::sakar_healthy_GRAZIA G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,3.741893028828732e-07,0,0,val
+D1GGRIAUZL45F020420171820.wav,ipvs::sakar_healthy_GRAZIA G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,8.392239421374115e-07,0,0,val
+D2GGRIAUZL45F020420171820.wav,ipvs::sakar_healthy_GRAZIA G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.03535005893097104,0,0,val
+FB1GGRIAUZL45F020420171827.wav,ipvs::sakar_healthy_GRAZIA G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,9.793385500899692e-05,0,0,val
+PR1GGRIAUZL45F020420171826.wav,ipvs::sakar_healthy_GRAZIA G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.00016120145646590016,0,0,val
+VA1GGRIAUZL45F020420171821.wav,ipvs::sakar_healthy_GRAZIA G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.026303436449607816,0,0,val
+VA2GGRIAUZL45F020420171821.wav,ipvs::sakar_healthy_GRAZIA G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.00021811575434929877,0,0,val
+VE1GGRIAUZL45F020420171822.wav,ipvs::sakar_healthy_GRAZIA G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.0003922375060901425,0,0,val
+VE2GGRIAUZL45F020420171822.wav,ipvs::sakar_healthy_GRAZIA G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.001962280893041325,0,0,val
+VI1GGRIAUZL45F020420171822.wav,ipvs::sakar_healthy_GRAZIA G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9998594142634888,1,0,val
+VI2GGRIAUZL45F020420171823.wav,ipvs::sakar_healthy_GRAZIA G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9999996723055607,1,0,val
+VO1GGRIAUZL45F020420171823.wav,ipvs::sakar_healthy_GRAZIA G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,8.706257223315784e-08,0,0,val
+VO2GGRIAUZL45F020420171823.wav,ipvs::sakar_healthy_GRAZIA G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,1.605813898319924e-10,0,0,val
+VU1GGRIAUZL45F020420171824.wav,ipvs::sakar_healthy_GRAZIA G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,6.710028663665001e-05,0,0,val
+VU2GGRIAUZL45F020420171824.wav,ipvs::sakar_healthy_GRAZIA G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9999997834859473,1,0,val
+B1GLIIUSSC57M210320171050.wav,ipvs::sakar_healthy_LISCO G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.00031389800630260325,0,0,val
+B2GLIIUSSC57M210320171051.wav,ipvs::sakar_healthy_LISCO G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.00018052437972023903,0,0,val
+D1GLIIUSSC57M210320171052.wav,ipvs::sakar_healthy_LISCO G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.0004917305562712586,0,0,val
+D2GLIIUSSC57M210320171052.wav,ipvs::sakar_healthy_LISCO G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.288891961131113,0,0,val
+FB1GLIIUSSC57M210320171058.wav,ipvs::sakar_healthy_LISCO G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.005980080544924334,0,0,val
+PR1GLIIUSSC57M210320171057.wav,ipvs::sakar_healthy_LISCO G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.00021906916810494106,0,0,val
+VA1GLIIUSSC57M210320171052.wav,ipvs::sakar_healthy_LISCO G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,4.286332063795503e-06,0,0,val
+VA2GLIIUSSC57M210320171053.wav,ipvs::sakar_healthy_LISCO G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.6425240842575305,1,0,val
+VE1GLIIUSSC57M210320171053.wav,ipvs::sakar_healthy_LISCO G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,7.035514839889284e-14,0,0,val
+VE2GLIIUSSC57M210320171053.wav,ipvs::sakar_healthy_LISCO G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,8.130792630035245e-17,0,0,val
+VI1GLIIUSSC57M210320171054.wav,ipvs::sakar_healthy_LISCO G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.007990815018225933,0,0,val
+VI2GLIIUSSC57M210320171054.wav,ipvs::sakar_healthy_LISCO G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9999999295542371,1,0,val
+VO1GLIIUSSC57M210320171055.wav,ipvs::sakar_healthy_LISCO G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,3.1585603282591504e-10,0,0,val
+VO2GLIIUSSC57M210320171055.wav,ipvs::sakar_healthy_LISCO G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,1.4795492985800966e-07,0,0,val
+VU1GLIIUSSC57M210320171055.wav,ipvs::sakar_healthy_LISCO G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9628505234726651,1,0,val
+VU2GLIIUSSC57M210320171056.wav,ipvs::sakar_healthy_LISCO G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,3.2563031580336836e-05,0,0,val
+B1APNOTROC49M230320170926.wav,ipvs::sakar_healthy_PORCELLI A,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.0004605559544829805,0,0,val
+B2APNOTROC49M230320170927.wav,ipvs::sakar_healthy_PORCELLI A,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,3.299966487838583e-05,0,0,val
+D1APNOTROC49M230320170928.wav,ipvs::sakar_healthy_PORCELLI A,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,2.679692103424682e-12,0,0,val
+D2APNOTROC49M230320170928.wav,ipvs::sakar_healthy_PORCELLI A,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,9.449769552624961e-13,0,0,val
+FB1APNOTROC49M230320170934.wav,ipvs::sakar_healthy_PORCELLI A,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.00031281035498812403,0,0,val
+PR1APNOTROC49M230320170933.wav,ipvs::sakar_healthy_PORCELLI A,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.0012723977802269809,0,0,val
+VA1APNOTROC49M230320170928.wav,ipvs::sakar_healthy_PORCELLI A,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,7.944795411229341e-06,0,0,val
+VA2APNOTROC49M230320170929.wav,ipvs::sakar_healthy_PORCELLI A,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,1.5762497023605472e-14,0,0,val
+VE1APNOTROC49M230320170929.wav,ipvs::sakar_healthy_PORCELLI A,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,6.767512778693583e-14,0,0,val
+VE2APNOTROC49M230320170930.wav,ipvs::sakar_healthy_PORCELLI A,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,1.3243650901226937e-25,0,0,val
+VI1APNOTROC49M230320170930.wav,ipvs::sakar_healthy_PORCELLI A,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,1.4167775077526277e-16,0,0,val
+VI2APNOTROC49M230320170930.wav,ipvs::sakar_healthy_PORCELLI A,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,1.3334433124012198e-15,0,0,val
+VO1APNOTROC49M230320170931.wav,ipvs::sakar_healthy_PORCELLI A,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,4.386986005511196e-23,0,0,val
+VO2APNOTROC49M230320170931.wav,ipvs::sakar_healthy_PORCELLI A,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,7.084435921827286e-24,0,0,val
+VU1APNOTROC49M230320170932.wav,ipvs::sakar_healthy_PORCELLI A,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,1.1571714560400067e-21,0,0,val
+VU2APNOTROC49M230320170932.wav,ipvs::sakar_healthy_PORCELLI A,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,4.0373761468148485e-19,0,0,val
+B1LBULCAAS94M100120171066.wav,ipvs::sakar_healthy_Sara T,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.916418096709199,1,0,val
+B2LBULCAAS94M100120171066.wav,ipvs::sakar_healthy_Sara T,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.22393244692999803,0,0,val
+PR1LBULCAAS94M100120171066.wav,ipvs::sakar_healthy_Sara T,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.8452196587698855,1,0,val
+B1TMEIRAEC54F230320171150.wav,ipvs::sakar_healthy_TERESA M,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.0009291533636124594,0,0,val
+B2TMEIRAEC54F230320171152.wav,ipvs::sakar_healthy_TERESA M,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.01033890253542579,0,0,val
+D1TMEIRAEC54F230320171152.wav,ipvs::sakar_healthy_TERESA M,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.00038431839444381407,0,0,val
+D2TMEIRAEC54F230320171152.wav,ipvs::sakar_healthy_TERESA M,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9912925083034001,1,0,val
+FB1TMEIRAEC54F230320171158.wav,ipvs::sakar_healthy_TERESA M,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,6.166179247722054e-07,0,0,val
+PR1TMEIRAEC54F230320171157.wav,ipvs::sakar_healthy_TERESA M,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,2.5415453575202086e-07,0,0,val
+VA1TMEIRAEC54F230320171153.wav,ipvs::sakar_healthy_TERESA M,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.999999435799,1,0,val
+VA2TMEIRAEC54F230320171153.wav,ipvs::sakar_healthy_TERESA M,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,2.4239428445263994e-06,0,0,val
+VE1TMEIRAEC54F230320171154.wav,ipvs::sakar_healthy_TERESA M,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,8.839335775825703e-12,0,0,val
+VE2TMEIRAEC54F230320171154.wav,ipvs::sakar_healthy_TERESA M,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.004539118985788388,0,0,val
+VI1TMEIRAEC54F230320171154.wav,ipvs::sakar_healthy_TERESA M,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,6.135723402571522e-08,0,0,val
+VI2TMEIRAEC54F230320171154.wav,ipvs::sakar_healthy_TERESA M,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9999999847328378,1,0,val
+VO1TMEIRAEC54F230320171155.wav,ipvs::sakar_healthy_TERESA M,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.06259634937010045,0,0,val
+VO2TMEIRAEC54F230320171155.wav,ipvs::sakar_healthy_TERESA M,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.018798918065103684,0,0,val
+VU1TMEIRAEC54F230320171155.wav,ipvs::sakar_healthy_TERESA M,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9964153726795592,1,0,val
+VU2TMEIRAEC54F230320171155.wav,ipvs::sakar_healthy_TERESA M,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.47286364743902887,0,0,val
+B1ACNUTCOC40M230320171121.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,3.486330344442108e-07,0,0,test
+B2ACNUTCOC40M230320171123.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,3.2897311633345004e-05,0,0,test
+D1ACNUTCOC40M230320171124.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,5.289239641733358e-05,0,0,test
+D2ACNUTCOC40M230320171124.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,7.167658014506709e-10,0,0,test
+FB1ACNUTCOC40M230320171130.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.037099526129310986,0,0,test
+PR1ACNUTCOC40M230320171129.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,1.5695326178699113e-05,0,0,test
+VA1ACNUTCOC40M230320171125.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,3.449889572981433e-08,0,0,test
+VA2ACNUTCOC40M230320171125.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,4.411306683720319e-09,0,0,test
+VE1ACNUTCOC40M230320171126.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,4.60908138746663e-05,0,0,test
+VE2ACNUTCOC40M230320171126.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,1.1957696263456414e-17,0,0,test
+VI1ACNUTCOC40M230320171126.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9991177585010811,1,0,test
+VI2ACNUTCOC40M230320171126.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.0001761380907909583,0,0,test
+VO1ACNUTCOC40M230320171127.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,4.1999751672426e-07,0,0,test
+VO2ACNUTCOC40M230320171127.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,7.391119657110309e-13,0,0,test
+VU1ACNUTCOC40M230320171128.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,5.217231722774243e-06,0,0,test
+VU2ACNUTCOC40M230320171128.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,3.8339761489861395e-14,0,0,test
+B1LBULCAAS94M100120171053.wav,ipvs::sakar_healthy_Arianna P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,4.444607091532346e-06,0,0,test
+B2LBULCAAS94M100120171053.wav,ipvs::sakar_healthy_Arianna P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.015050128247849627,0,0,test
+PR1LBULCAAS94M100120171053.wav,ipvs::sakar_healthy_Arianna P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.0010690480462211425,0,0,test
+B1LBULCAAS94M100120171036.wav,ipvs::sakar_healthy_Davide S,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.006950178158793525,0,0,test
+B2LBULCAAS94M100120171036.wav,ipvs::sakar_healthy_Davide S,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.0023717915653572036,0,0,test
+PR1LBULCAAS94M100120171036.wav,ipvs::sakar_healthy_Davide S,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.17327090369405043,0,0,test
+B1LBULCAAS94M100120171064.wav,ipvs::sakar_healthy_Gennaro T,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9769396605874334,1,0,test
+B2LBULCAAS94M100120171064.wav,ipvs::sakar_healthy_Gennaro T,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.99726558037384,1,0,test
+PR1LBULCAAS94M100120171064.wav,ipvs::sakar_healthy_Gennaro T,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9937279638359344,1,0,test
+B1LPUUITGI41M230320171109.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.0009473879539969093,0,0,test
+B2LPUUITGI41M230320171110.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.0034611923474746997,0,0,test
+D1LPUUITGI41M230320171110.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,2.574033538756143e-07,0,0,test
+D2LPUUITGI41M230320171111.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.000996172783055452,0,0,test
+FB1LPUUITGI41M230320171116.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.000596710471735863,0,0,test
+PR1LPUUITGI41M230320171115.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.00043884441953825253,0,0,test
+VA1LPUUITGI41M230320171111.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,2.581716507330959e-13,0,0,test
+VA2LPUUITGI41M230320171111.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.0005252989025083403,0,0,test
+VE1LPUUITGI41M230320171112.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,3.308380548712604e-10,0,0,test
+VE2LPUUITGI41M230320171112.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,1.3502268043363201e-15,0,0,test
+VI1LPUUITGI41M230320171113.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9933314922288791,1,0,test
+VI2LPUUITGI41M230320171113.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.999999999975058,1,0,test
+VO1LPUUITGI41M230320171113.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9986435351342074,1,0,test
+VO2LPUUITGI41M230320171113.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9999997278084386,1,0,test
+VU1LPUUITGI41M230320171114.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9996350119474269,1,0,test
+VU2LPUUITGI41M230320171114.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.999999999996652,1,0,test
+B1LBULCAAS94M100120171063.wav,ipvs::sakar_healthy_Luca S,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9999759739025221,1,0,test
+B2LBULCAAS94M100120171063.wav,ipvs::sakar_healthy_Luca S,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9998427140520839,1,0,test
+PR1LBULCAAS94M100120171063.wav,ipvs::sakar_healthy_Luca S,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9999999526094632,1,0,test
+B1lbuairgo52M1606161810.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9882769715384514,1,1,test
+B1sncihcio44M1606161717.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.8032853672780533,1,1,test
+B1ssacvhei61M1606161740.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9286384652623682,1,1,test
+B1ubguot_t40M1606161755.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.976723943610139,1,1,test
+B1vsiptioz46M1606161659.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9923478451824476,1,1,test
+B2lbuairgo52M1606161811.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.969424320347472,1,1,test
+B2sncihcio44M1606161718.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.8677656110757792,1,1,test
+B2ssacvhei61M1606161741.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9983280714832203,1,1,test
+B2ubguot_t40M1606161756.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9867611436150454,1,1,test
+B2vsiptioz46M1606161701.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9261742393778929,1,1,test
+D1lbuairgo52M1606161812.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9999999459071365,1,1,test
+D1sncihcio44M1606161719.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9999999999904683,1,1,test
+D1ssacvhei61M1606161742.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,1.0,1,1,test
+D1ubguot_t40M1606161758.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9999999929910668,1,1,test
+D1vsiptioz46M1606161702.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9999999999999836,1,1,test
+D2lbuairgo52M1606161812.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9999999254888388,1,1,test
+D2sncihcio44M1606161719.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9999971697432398,1,1,test
+D2ssacvhei61M1606161742.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,1.0,1,1,test
+D2ubguot_t40M1606161758.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9999996740110976,1,1,test
+D2vsiptioz46M1606161704.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.999999999841062,1,1,test
+FB1lbuairgo52M1606161825.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9986533570461877,1,1,test
+FB1sncihcio44M1606161728.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9285398297610372,1,1,test
+FB1ssacvhei61M1606161751.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9999963446207792,1,1,test
+FB1ubguot_t40M1606161807.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9813492590932048,1,1,test
+FB1vsiptioz46M1606161712.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.10949177372644159,0,1,test
+PR1lbuairgo52M1606161824.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.8164514574975679,1,1,test
+PR1sncihcio44M1606161727.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.837207254002972,1,1,test
+PR1ssacvhei61M1606161750.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9557116812135086,1,1,test
+PR1ubguot_t40M1606161806.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9097882112511567,1,1,test
+PR1vsiptioz46M1606161711.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9235795274939254,1,1,test
+VA1lbuairgo52M1606161813.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,1.0,1,1,test
+VA1sncihcio44M1606161720.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,1.0,1,1,test
+VA1ssacvhei61M1606161744.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,1.0,1,1,test
+VA1ubguot_t40M1606161759.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,1.0,1,1,test
+VA1vsiptioz46M1606161705.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9999069891960914,1,1,test
+VA2lbuairgo52M1606161814.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9999999999999971,1,1,test
+VA2sncihcio44M1606161721.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9999999999999996,1,1,test
+VA2ssacvhei61M1606161744.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,1.0,1,1,test
+VA2ubguot_t40M1606161759.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,1.0,1,1,test
+VA2vsiptioz46M1606161705.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9999999999999893,1,1,test
+VE1lbuairgo52M1606161815.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9999979121059256,1,1,test
+VE1sncihcio44M1606161721.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9999999999999998,1,1,test
+VE1ssacvhei61M1606161745.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,1.0,1,1,test
+VE1ubguot_t40M1606161800.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,1.0,1,1,test
+VE1vsiptioz46M1606161706.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9995122660277873,1,1,test
+VE2lbuairgo52M1606161815.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.20010086026727658,0,1,test
+VE2sncihcio44M1606161722.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9999999999999816,1,1,test
+VE2ssacvhei61M1606161745.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,1.0,1,1,test
+VE2ubguot_t40M1606161801.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,1.0,1,1,test
+VE2vsiptioz46M1606161706.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,1.0,1,1,test
+VI1lbuairgo52M1606161816.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9999999999999993,1,1,test
+VI1sncihcio44M1606161722.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,1.0,1,1,test
+VI1ssacvhei61M1606161746.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.999999999999996,1,1,test
+VI1ubguot_t40M1606161801.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,1.0,1,1,test
+VI1vsiptioz46M1606161707.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9999999999999998,1,1,test
+VI2lbuairgo52M1606161816.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,1.0,1,1,test
+VI2sncihcio44M1606161722.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9999999999999998,1,1,test
+VI2ssacvhei61M1606161746.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,1.0,1,1,test
+VI2ubguot_t40M1606161802.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,1.0,1,1,test
+VI2vsiptioz46M1606161707.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9999999973911982,1,1,test
+VO1lbuairgo52M1606161817.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9982844036146846,1,1,test
+VO1sncihcio44M1606161723.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,1.0,1,1,test
+VO1ssacvhei61M1606161747.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,1.0,1,1,test
+VO1ubguot_t40M1606161802.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,1.0,1,1,test
+VO1vsiptioz46M1606161708.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,8.919861957929435e-05,0,1,test
+VO2lbuairgo52M1606161817.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.25054826886315784,0,1,test
+VO2sncihcio44M1606161723.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,1.0,1,1,test
+VO2ssacvhei61M1606161747.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,1.0,1,1,test
+VO2ubguot_t40M1606161803.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,1.0,1,1,test
+VO2vsiptioz46M1606161708.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9999972977221165,1,1,test
+VU1lbuairgo52M1606161819.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9999999999995721,1,1,test
+VU1sncihcio44M1606161724.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9999999992144333,1,1,test
+VU1ssacvhei61M1606161748.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9999999999999998,1,1,test
+VU1ubguot_t40M1606161803.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,1.0,1,1,test
+VU1vsiptioz46M1606161709.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9999999999965543,1,1,test
+VU2lbuairgo52M1606161820.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,1.0,1,1,test
+VU2sncihcio44M1606161725.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,1.0,1,1,test
+VU2ssacvhei61M1606161748.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.999999999999988,1,1,test
+VU2ubguot_t40M1606161804.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,1.0,1,1,test
+VU2vsiptioz46M1606161709.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,logreg,0.9996784995676139,1,1,test
+B1LBULCAAS94M100120171056.wav,ipvs::sakar_healthy_Biagio P,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+B2LBULCAAS94M100120171056.wav,ipvs::sakar_healthy_Biagio P,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+PR1LBULCAAS94M100120171056.wav,ipvs::sakar_healthy_Biagio P,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+B1GGRIAUZL45F020420171817.wav,ipvs::sakar_healthy_GRAZIA G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+B2GGRIAUZL45F020420171820.wav,ipvs::sakar_healthy_GRAZIA G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+D1GGRIAUZL45F020420171820.wav,ipvs::sakar_healthy_GRAZIA G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+D2GGRIAUZL45F020420171820.wav,ipvs::sakar_healthy_GRAZIA G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+FB1GGRIAUZL45F020420171827.wav,ipvs::sakar_healthy_GRAZIA G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+PR1GGRIAUZL45F020420171826.wav,ipvs::sakar_healthy_GRAZIA G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826632284318,1,0,val
+VA1GGRIAUZL45F020420171821.wav,ipvs::sakar_healthy_GRAZIA G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+VA2GGRIAUZL45F020420171821.wav,ipvs::sakar_healthy_GRAZIA G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+VE1GGRIAUZL45F020420171822.wav,ipvs::sakar_healthy_GRAZIA G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+VE2GGRIAUZL45F020420171822.wav,ipvs::sakar_healthy_GRAZIA G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+VI1GGRIAUZL45F020420171822.wav,ipvs::sakar_healthy_GRAZIA G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+VI2GGRIAUZL45F020420171823.wav,ipvs::sakar_healthy_GRAZIA G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+VO1GGRIAUZL45F020420171823.wav,ipvs::sakar_healthy_GRAZIA G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+VO2GGRIAUZL45F020420171823.wav,ipvs::sakar_healthy_GRAZIA G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+VU1GGRIAUZL45F020420171824.wav,ipvs::sakar_healthy_GRAZIA G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+VU2GGRIAUZL45F020420171824.wav,ipvs::sakar_healthy_GRAZIA G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+B1GLIIUSSC57M210320171050.wav,ipvs::sakar_healthy_LISCO G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721637,1,0,val
+B2GLIIUSSC57M210320171051.wav,ipvs::sakar_healthy_LISCO G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+D1GLIIUSSC57M210320171052.wav,ipvs::sakar_healthy_LISCO G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+D2GLIIUSSC57M210320171052.wav,ipvs::sakar_healthy_LISCO G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+FB1GLIIUSSC57M210320171058.wav,ipvs::sakar_healthy_LISCO G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+PR1GLIIUSSC57M210320171057.wav,ipvs::sakar_healthy_LISCO G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+VA1GLIIUSSC57M210320171052.wav,ipvs::sakar_healthy_LISCO G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+VA2GLIIUSSC57M210320171053.wav,ipvs::sakar_healthy_LISCO G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+VE1GLIIUSSC57M210320171053.wav,ipvs::sakar_healthy_LISCO G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+VE2GLIIUSSC57M210320171053.wav,ipvs::sakar_healthy_LISCO G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+VI1GLIIUSSC57M210320171054.wav,ipvs::sakar_healthy_LISCO G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+VI2GLIIUSSC57M210320171054.wav,ipvs::sakar_healthy_LISCO G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+VO1GLIIUSSC57M210320171055.wav,ipvs::sakar_healthy_LISCO G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+VO2GLIIUSSC57M210320171055.wav,ipvs::sakar_healthy_LISCO G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+VU1GLIIUSSC57M210320171055.wav,ipvs::sakar_healthy_LISCO G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+VU2GLIIUSSC57M210320171056.wav,ipvs::sakar_healthy_LISCO G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+B1APNOTROC49M230320170926.wav,ipvs::sakar_healthy_PORCELLI A,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721646,1,0,val
+B2APNOTROC49M230320170927.wav,ipvs::sakar_healthy_PORCELLI A,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.685082663451581,1,0,val
+D1APNOTROC49M230320170928.wav,ipvs::sakar_healthy_PORCELLI A,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+D2APNOTROC49M230320170928.wav,ipvs::sakar_healthy_PORCELLI A,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+FB1APNOTROC49M230320170934.wav,ipvs::sakar_healthy_PORCELLI A,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+PR1APNOTROC49M230320170933.wav,ipvs::sakar_healthy_PORCELLI A,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721369,1,0,val
+VA1APNOTROC49M230320170928.wav,ipvs::sakar_healthy_PORCELLI A,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+VA2APNOTROC49M230320170929.wav,ipvs::sakar_healthy_PORCELLI A,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+VE1APNOTROC49M230320170929.wav,ipvs::sakar_healthy_PORCELLI A,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+VE2APNOTROC49M230320170930.wav,ipvs::sakar_healthy_PORCELLI A,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+VI1APNOTROC49M230320170930.wav,ipvs::sakar_healthy_PORCELLI A,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+VI2APNOTROC49M230320170930.wav,ipvs::sakar_healthy_PORCELLI A,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+VO1APNOTROC49M230320170931.wav,ipvs::sakar_healthy_PORCELLI A,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+VO2APNOTROC49M230320170931.wav,ipvs::sakar_healthy_PORCELLI A,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+VU1APNOTROC49M230320170932.wav,ipvs::sakar_healthy_PORCELLI A,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+VU2APNOTROC49M230320170932.wav,ipvs::sakar_healthy_PORCELLI A,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+B1LBULCAAS94M100120171066.wav,ipvs::sakar_healthy_Sara T,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+B2LBULCAAS94M100120171066.wav,ipvs::sakar_healthy_Sara T,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+PR1LBULCAAS94M100120171066.wav,ipvs::sakar_healthy_Sara T,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+B1TMEIRAEC54F230320171150.wav,ipvs::sakar_healthy_TERESA M,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635716425,1,0,val
+B2TMEIRAEC54F230320171152.wav,ipvs::sakar_healthy_TERESA M,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6842940198251568,1,0,val
+D1TMEIRAEC54F230320171152.wav,ipvs::sakar_healthy_TERESA M,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+D2TMEIRAEC54F230320171152.wav,ipvs::sakar_healthy_TERESA M,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+FB1TMEIRAEC54F230320171158.wav,ipvs::sakar_healthy_TERESA M,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+PR1TMEIRAEC54F230320171157.wav,ipvs::sakar_healthy_TERESA M,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+VA1TMEIRAEC54F230320171153.wav,ipvs::sakar_healthy_TERESA M,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+VA2TMEIRAEC54F230320171153.wav,ipvs::sakar_healthy_TERESA M,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+VE1TMEIRAEC54F230320171154.wav,ipvs::sakar_healthy_TERESA M,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+VE2TMEIRAEC54F230320171154.wav,ipvs::sakar_healthy_TERESA M,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+VI1TMEIRAEC54F230320171154.wav,ipvs::sakar_healthy_TERESA M,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+VI2TMEIRAEC54F230320171154.wav,ipvs::sakar_healthy_TERESA M,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+VO1TMEIRAEC54F230320171155.wav,ipvs::sakar_healthy_TERESA M,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+VO2TMEIRAEC54F230320171155.wav,ipvs::sakar_healthy_TERESA M,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+VU1TMEIRAEC54F230320171155.wav,ipvs::sakar_healthy_TERESA M,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+VU2TMEIRAEC54F230320171155.wav,ipvs::sakar_healthy_TERESA M,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,val
+B1ACNUTCOC40M230320171121.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,test
+B2ACNUTCOC40M230320171123.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,test
+D1ACNUTCOC40M230320171124.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,test
+D2ACNUTCOC40M230320171124.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,test
+FB1ACNUTCOC40M230320171130.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,test
+PR1ACNUTCOC40M230320171129.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,test
+VA1ACNUTCOC40M230320171125.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,test
+VA2ACNUTCOC40M230320171125.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,test
+VE1ACNUTCOC40M230320171126.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,test
+VE2ACNUTCOC40M230320171126.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,test
+VI1ACNUTCOC40M230320171126.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,test
+VI2ACNUTCOC40M230320171126.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,test
+VO1ACNUTCOC40M230320171127.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,test
+VO2ACNUTCOC40M230320171127.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,test
+VU1ACNUTCOC40M230320171128.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,test
+VU2ACNUTCOC40M230320171128.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,test
+B1LBULCAAS94M100120171053.wav,ipvs::sakar_healthy_Arianna P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,test
+B2LBULCAAS94M100120171053.wav,ipvs::sakar_healthy_Arianna P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,test
+PR1LBULCAAS94M100120171053.wav,ipvs::sakar_healthy_Arianna P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,test
+B1LBULCAAS94M100120171036.wav,ipvs::sakar_healthy_Davide S,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826378377207,1,0,test
+B2LBULCAAS94M100120171036.wav,ipvs::sakar_healthy_Davide S,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.68508266351013,1,0,test
+PR1LBULCAAS94M100120171036.wav,ipvs::sakar_healthy_Davide S,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850692377457879,1,0,test
+B1LBULCAAS94M100120171064.wav,ipvs::sakar_healthy_Gennaro T,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,test
+B2LBULCAAS94M100120171064.wav,ipvs::sakar_healthy_Gennaro T,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,test
+PR1LBULCAAS94M100120171064.wav,ipvs::sakar_healthy_Gennaro T,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,test
+B1LPUUITGI41M230320171109.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,test
+B2LPUUITGI41M230320171110.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,test
+D1LPUUITGI41M230320171110.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,test
+D2LPUUITGI41M230320171111.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,test
+FB1LPUUITGI41M230320171116.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,test
+PR1LPUUITGI41M230320171115.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,test
+VA1LPUUITGI41M230320171111.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,test
+VA2LPUUITGI41M230320171111.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,test
+VE1LPUUITGI41M230320171112.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,test
+VE2LPUUITGI41M230320171112.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,test
+VI1LPUUITGI41M230320171113.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,test
+VI2LPUUITGI41M230320171113.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,test
+VO1LPUUITGI41M230320171113.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,test
+VO2LPUUITGI41M230320171113.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,test
+VU1LPUUITGI41M230320171114.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,test
+VU2LPUUITGI41M230320171114.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,test
+B1LBULCAAS94M100120171063.wav,ipvs::sakar_healthy_Luca S,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,test
+B2LBULCAAS94M100120171063.wav,ipvs::sakar_healthy_Luca S,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,test
+PR1LBULCAAS94M100120171063.wav,ipvs::sakar_healthy_Luca S,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,0,test
+B1lbuairgo52M1606161810.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.7167701670894595,1,1,test
+B1sncihcio44M1606161717.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.7034799887518743,1,1,test
+B1ssacvhei61M1606161740.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.7224234930802729,1,1,test
+B1ubguot_t40M1606161755.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.7311154433704797,1,1,test
+B1vsiptioz46M1606161659.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.7027553854564154,1,1,test
+B2lbuairgo52M1606161811.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.7082111198788371,1,1,test
+B2sncihcio44M1606161718.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.694236790264165,1,1,test
+B2ssacvhei61M1606161741.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6854615618039941,1,1,test
+B2ubguot_t40M1606161756.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.7179328265176831,1,1,test
+B2vsiptioz46M1606161701.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6869049689479606,1,1,test
+D1lbuairgo52M1606161812.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+D1sncihcio44M1606161719.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+D1ssacvhei61M1606161742.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+D1ubguot_t40M1606161758.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+D1vsiptioz46M1606161702.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+D2lbuairgo52M1606161812.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+D2sncihcio44M1606161719.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+D2ssacvhei61M1606161742.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+D2ubguot_t40M1606161758.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+D2vsiptioz46M1606161704.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+FB1lbuairgo52M1606161825.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6973656778004461,1,1,test
+FB1sncihcio44M1606161728.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.7118683192047041,1,1,test
+FB1ssacvhei61M1606161751.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+FB1ubguot_t40M1606161807.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6867435495509976,1,1,test
+FB1vsiptioz46M1606161712.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6842985135470702,1,1,test
+PR1lbuairgo52M1606161824.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6873380570662956,1,1,test
+PR1sncihcio44M1606161727.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.7057321905335545,1,1,test
+PR1ssacvhei61M1606161750.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6881108297440343,1,1,test
+PR1ubguot_t40M1606161806.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.7043660348000931,1,1,test
+PR1vsiptioz46M1606161711.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6857217152084987,1,1,test
+VA1lbuairgo52M1606161813.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+VA1sncihcio44M1606161720.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+VA1ssacvhei61M1606161744.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+VA1ubguot_t40M1606161759.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+VA1vsiptioz46M1606161705.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+VA2lbuairgo52M1606161814.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+VA2sncihcio44M1606161721.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+VA2ssacvhei61M1606161744.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+VA2ubguot_t40M1606161759.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+VA2vsiptioz46M1606161705.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+VE1lbuairgo52M1606161815.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635745443,1,1,test
+VE1sncihcio44M1606161721.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+VE1ssacvhei61M1606161745.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+VE1ubguot_t40M1606161800.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+VE1vsiptioz46M1606161706.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+VE2lbuairgo52M1606161815.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+VE2sncihcio44M1606161722.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+VE2ssacvhei61M1606161745.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+VE2ubguot_t40M1606161801.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+VE2vsiptioz46M1606161706.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+VI1lbuairgo52M1606161816.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+VI1sncihcio44M1606161722.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+VI1ssacvhei61M1606161746.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+VI1ubguot_t40M1606161801.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+VI1vsiptioz46M1606161707.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+VI2lbuairgo52M1606161816.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+VI2sncihcio44M1606161722.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+VI2ssacvhei61M1606161746.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+VI2ubguot_t40M1606161802.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+VI2vsiptioz46M1606161707.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+VO1lbuairgo52M1606161817.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+VO1sncihcio44M1606161723.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+VO1ssacvhei61M1606161747.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+VO1ubguot_t40M1606161802.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+VO1vsiptioz46M1606161708.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+VO2lbuairgo52M1606161817.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+VO2sncihcio44M1606161723.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+VO2ssacvhei61M1606161747.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+VO2ubguot_t40M1606161803.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+VO2vsiptioz46M1606161708.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+VU1lbuairgo52M1606161819.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+VU1sncihcio44M1606161724.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+VU1ssacvhei61M1606161748.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+VU1ubguot_t40M1606161803.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+VU1vsiptioz46M1606161709.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+VU2lbuairgo52M1606161820.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+VU2sncihcio44M1606161725.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+VU2ssacvhei61M1606161748.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+VU2ubguot_t40M1606161804.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+VU2vsiptioz46M1606161709.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,svm,0.6850826635721647,1,1,test
+B1LBULCAAS94M100120171056.wav,ipvs::sakar_healthy_Biagio P,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.57,1,0,val
+B2LBULCAAS94M100120171056.wav,ipvs::sakar_healthy_Biagio P,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5466666666666666,1,0,val
+PR1LBULCAAS94M100120171056.wav,ipvs::sakar_healthy_Biagio P,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5766666666666667,1,0,val
+B1GGRIAUZL45F020420171817.wav,ipvs::sakar_healthy_GRAZIA G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.32666666666666666,0,0,val
+B2GGRIAUZL45F020420171820.wav,ipvs::sakar_healthy_GRAZIA G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.26666666666666666,0,0,val
+D1GGRIAUZL45F020420171820.wav,ipvs::sakar_healthy_GRAZIA G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5466666666666666,1,0,val
+D2GGRIAUZL45F020420171820.wav,ipvs::sakar_healthy_GRAZIA G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.53,1,0,val
+FB1GGRIAUZL45F020420171827.wav,ipvs::sakar_healthy_GRAZIA G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.4066666666666667,0,0,val
+PR1GGRIAUZL45F020420171826.wav,ipvs::sakar_healthy_GRAZIA G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.3233333333333333,0,0,val
+VA1GGRIAUZL45F020420171821.wav,ipvs::sakar_healthy_GRAZIA G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.58,1,0,val
+VA2GGRIAUZL45F020420171821.wav,ipvs::sakar_healthy_GRAZIA G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.56,1,0,val
+VE1GGRIAUZL45F020420171822.wav,ipvs::sakar_healthy_GRAZIA G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5666666666666667,1,0,val
+VE2GGRIAUZL45F020420171822.wav,ipvs::sakar_healthy_GRAZIA G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.54,1,0,val
+VI1GGRIAUZL45F020420171822.wav,ipvs::sakar_healthy_GRAZIA G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5466666666666666,1,0,val
+VI2GGRIAUZL45F020420171823.wav,ipvs::sakar_healthy_GRAZIA G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5366666666666666,1,0,val
+VO1GGRIAUZL45F020420171823.wav,ipvs::sakar_healthy_GRAZIA G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5433333333333333,1,0,val
+VO2GGRIAUZL45F020420171823.wav,ipvs::sakar_healthy_GRAZIA G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.49,0,0,val
+VU1GGRIAUZL45F020420171824.wav,ipvs::sakar_healthy_GRAZIA G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5233333333333333,1,0,val
+VU2GGRIAUZL45F020420171824.wav,ipvs::sakar_healthy_GRAZIA G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5066666666666667,1,0,val
+B1GLIIUSSC57M210320171050.wav,ipvs::sakar_healthy_LISCO G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5033333333333333,1,0,val
+B2GLIIUSSC57M210320171051.wav,ipvs::sakar_healthy_LISCO G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.43,0,0,val
+D1GLIIUSSC57M210320171052.wav,ipvs::sakar_healthy_LISCO G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5633333333333334,1,0,val
+D2GLIIUSSC57M210320171052.wav,ipvs::sakar_healthy_LISCO G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.52,1,0,val
+FB1GLIIUSSC57M210320171058.wav,ipvs::sakar_healthy_LISCO G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.38666666666666666,0,0,val
+PR1GLIIUSSC57M210320171057.wav,ipvs::sakar_healthy_LISCO G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.43666666666666665,0,0,val
+VA1GLIIUSSC57M210320171052.wav,ipvs::sakar_healthy_LISCO G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.57,1,0,val
+VA2GLIIUSSC57M210320171053.wav,ipvs::sakar_healthy_LISCO G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5666666666666667,1,0,val
+VE1GLIIUSSC57M210320171053.wav,ipvs::sakar_healthy_LISCO G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5866666666666667,1,0,val
+VE2GLIIUSSC57M210320171053.wav,ipvs::sakar_healthy_LISCO G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5366666666666666,1,0,val
+VI1GLIIUSSC57M210320171054.wav,ipvs::sakar_healthy_LISCO G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5733333333333334,1,0,val
+VI2GLIIUSSC57M210320171054.wav,ipvs::sakar_healthy_LISCO G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.58,1,0,val
+VO1GLIIUSSC57M210320171055.wav,ipvs::sakar_healthy_LISCO G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5166666666666667,1,0,val
+VO2GLIIUSSC57M210320171055.wav,ipvs::sakar_healthy_LISCO G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.49333333333333335,0,0,val
+VU1GLIIUSSC57M210320171055.wav,ipvs::sakar_healthy_LISCO G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5466666666666666,1,0,val
+VU2GLIIUSSC57M210320171056.wav,ipvs::sakar_healthy_LISCO G,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5233333333333333,1,0,val
+B1APNOTROC49M230320170926.wav,ipvs::sakar_healthy_PORCELLI A,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.36333333333333334,0,0,val
+B2APNOTROC49M230320170927.wav,ipvs::sakar_healthy_PORCELLI A,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.3433333333333333,0,0,val
+D1APNOTROC49M230320170928.wav,ipvs::sakar_healthy_PORCELLI A,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5966666666666667,1,0,val
+D2APNOTROC49M230320170928.wav,ipvs::sakar_healthy_PORCELLI A,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.54,1,0,val
+FB1APNOTROC49M230320170934.wav,ipvs::sakar_healthy_PORCELLI A,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.43333333333333335,0,0,val
+PR1APNOTROC49M230320170933.wav,ipvs::sakar_healthy_PORCELLI A,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.4533333333333333,0,0,val
+VA1APNOTROC49M230320170928.wav,ipvs::sakar_healthy_PORCELLI A,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5766666666666667,1,0,val
+VA2APNOTROC49M230320170929.wav,ipvs::sakar_healthy_PORCELLI A,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5366666666666666,1,0,val
+VE1APNOTROC49M230320170929.wav,ipvs::sakar_healthy_PORCELLI A,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5433333333333333,1,0,val
+VE2APNOTROC49M230320170930.wav,ipvs::sakar_healthy_PORCELLI A,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5066666666666667,1,0,val
+VI1APNOTROC49M230320170930.wav,ipvs::sakar_healthy_PORCELLI A,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5733333333333334,1,0,val
+VI2APNOTROC49M230320170930.wav,ipvs::sakar_healthy_PORCELLI A,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5633333333333334,1,0,val
+VO1APNOTROC49M230320170931.wav,ipvs::sakar_healthy_PORCELLI A,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5233333333333333,1,0,val
+VO2APNOTROC49M230320170931.wav,ipvs::sakar_healthy_PORCELLI A,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.49333333333333335,0,0,val
+VU1APNOTROC49M230320170932.wav,ipvs::sakar_healthy_PORCELLI A,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5266666666666666,1,0,val
+VU2APNOTROC49M230320170932.wav,ipvs::sakar_healthy_PORCELLI A,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.52,1,0,val
+B1LBULCAAS94M100120171066.wav,ipvs::sakar_healthy_Sara T,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.41333333333333333,0,0,val
+B2LBULCAAS94M100120171066.wav,ipvs::sakar_healthy_Sara T,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.42,0,0,val
+PR1LBULCAAS94M100120171066.wav,ipvs::sakar_healthy_Sara T,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.53,1,0,val
+B1TMEIRAEC54F230320171150.wav,ipvs::sakar_healthy_TERESA M,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.26666666666666666,0,0,val
+B2TMEIRAEC54F230320171152.wav,ipvs::sakar_healthy_TERESA M,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.31666666666666665,0,0,val
+D1TMEIRAEC54F230320171152.wav,ipvs::sakar_healthy_TERESA M,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.53,1,0,val
+D2TMEIRAEC54F230320171152.wav,ipvs::sakar_healthy_TERESA M,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.54,1,0,val
+FB1TMEIRAEC54F230320171158.wav,ipvs::sakar_healthy_TERESA M,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.30666666666666664,0,0,val
+PR1TMEIRAEC54F230320171157.wav,ipvs::sakar_healthy_TERESA M,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.35,0,0,val
+VA1TMEIRAEC54F230320171153.wav,ipvs::sakar_healthy_TERESA M,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5466666666666666,1,0,val
+VA2TMEIRAEC54F230320171153.wav,ipvs::sakar_healthy_TERESA M,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5466666666666666,1,0,val
+VE1TMEIRAEC54F230320171154.wav,ipvs::sakar_healthy_TERESA M,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5333333333333333,1,0,val
+VE2TMEIRAEC54F230320171154.wav,ipvs::sakar_healthy_TERESA M,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5333333333333333,1,0,val
+VI1TMEIRAEC54F230320171154.wav,ipvs::sakar_healthy_TERESA M,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5733333333333334,1,0,val
+VI2TMEIRAEC54F230320171154.wav,ipvs::sakar_healthy_TERESA M,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.54,1,0,val
+VO1TMEIRAEC54F230320171155.wav,ipvs::sakar_healthy_TERESA M,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5433333333333333,1,0,val
+VO2TMEIRAEC54F230320171155.wav,ipvs::sakar_healthy_TERESA M,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5566666666666666,1,0,val
+VU1TMEIRAEC54F230320171155.wav,ipvs::sakar_healthy_TERESA M,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5333333333333333,1,0,val
+VU2TMEIRAEC54F230320171155.wav,ipvs::sakar_healthy_TERESA M,ipvs,0,val,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5433333333333333,1,0,val
+B1ACNUTCOC40M230320171121.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.41333333333333333,0,0,test
+B2ACNUTCOC40M230320171123.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.43,0,0,test
+D1ACNUTCOC40M230320171124.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.61,1,0,test
+D2ACNUTCOC40M230320171124.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5966666666666667,1,0,test
+FB1ACNUTCOC40M230320171130.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.44666666666666666,0,0,test
+PR1ACNUTCOC40M230320171129.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.44,0,0,test
+VA1ACNUTCOC40M230320171125.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.58,1,0,test
+VA2ACNUTCOC40M230320171125.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5433333333333333,1,0,test
+VE1ACNUTCOC40M230320171126.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.58,1,0,test
+VE2ACNUTCOC40M230320171126.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.6066666666666667,1,0,test
+VI1ACNUTCOC40M230320171126.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.6366666666666667,1,0,test
+VI2ACNUTCOC40M230320171126.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.63,1,0,test
+VO1ACNUTCOC40M230320171127.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5733333333333334,1,0,test
+VO2ACNUTCOC40M230320171127.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5333333333333333,1,0,test
+VU1ACNUTCOC40M230320171128.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5733333333333334,1,0,test
+VU2ACNUTCOC40M230320171128.wav,ipvs::sakar_healthy_ANTONIO C,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5066666666666667,1,0,test
+B1LBULCAAS94M100120171053.wav,ipvs::sakar_healthy_Arianna P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.43333333333333335,0,0,test
+B2LBULCAAS94M100120171053.wav,ipvs::sakar_healthy_Arianna P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.41333333333333333,0,0,test
+PR1LBULCAAS94M100120171053.wav,ipvs::sakar_healthy_Arianna P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.38,0,0,test
+B1LBULCAAS94M100120171036.wav,ipvs::sakar_healthy_Davide S,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.57,1,0,test
+B2LBULCAAS94M100120171036.wav,ipvs::sakar_healthy_Davide S,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.62,1,0,test
+PR1LBULCAAS94M100120171036.wav,ipvs::sakar_healthy_Davide S,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.61,1,0,test
+B1LBULCAAS94M100120171064.wav,ipvs::sakar_healthy_Gennaro T,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.6233333333333333,1,0,test
+B2LBULCAAS94M100120171064.wav,ipvs::sakar_healthy_Gennaro T,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.6,1,0,test
+PR1LBULCAAS94M100120171064.wav,ipvs::sakar_healthy_Gennaro T,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.6433333333333333,1,0,test
+B1LPUUITGI41M230320171109.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.41333333333333333,0,0,test
+B2LPUUITGI41M230320171110.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.37,0,0,test
+D1LPUUITGI41M230320171110.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5066666666666667,1,0,test
+D2LPUUITGI41M230320171111.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5666666666666667,1,0,test
+FB1LPUUITGI41M230320171116.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5033333333333333,1,0,test
+PR1LPUUITGI41M230320171115.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.42333333333333334,0,0,test
+VA1LPUUITGI41M230320171111.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.56,1,0,test
+VA2LPUUITGI41M230320171111.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.53,1,0,test
+VE1LPUUITGI41M230320171112.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.57,1,0,test
+VE2LPUUITGI41M230320171112.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5166666666666667,1,0,test
+VI1LPUUITGI41M230320171113.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5533333333333333,1,0,test
+VI2LPUUITGI41M230320171113.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.6266666666666667,1,0,test
+VO1LPUUITGI41M230320171113.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.53,1,0,test
+VO2LPUUITGI41M230320171113.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5033333333333333,1,0,test
+VU1LPUUITGI41M230320171114.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5433333333333333,1,0,test
+VU2LPUUITGI41M230320171114.wav,ipvs::sakar_healthy_LUIGI P,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5266666666666666,1,0,test
+B1LBULCAAS94M100120171063.wav,ipvs::sakar_healthy_Luca S,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.75,1,0,test
+B2LBULCAAS94M100120171063.wav,ipvs::sakar_healthy_Luca S,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.6866666666666666,1,0,test
+PR1LBULCAAS94M100120171063.wav,ipvs::sakar_healthy_Luca S,ipvs,0,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.6766666666666666,1,0,test
+B1lbuairgo52M1606161810.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.6166666666666667,1,1,test
+B1sncihcio44M1606161717.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5,1,1,test
+B1ssacvhei61M1606161740.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5833333333333334,1,1,test
+B1ubguot_t40M1606161755.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.64,1,1,test
+B1vsiptioz46M1606161659.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5433333333333333,1,1,test
+B2lbuairgo52M1606161811.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.6333333333333333,1,1,test
+B2sncihcio44M1606161718.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5366666666666666,1,1,test
+B2ssacvhei61M1606161741.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.62,1,1,test
+B2ubguot_t40M1606161756.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.59,1,1,test
+B2vsiptioz46M1606161701.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.51,1,1,test
+D1lbuairgo52M1606161812.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5933333333333334,1,1,test
+D1sncihcio44M1606161719.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.6333333333333333,1,1,test
+D1ssacvhei61M1606161742.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5966666666666667,1,1,test
+D1ubguot_t40M1606161758.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5766666666666667,1,1,test
+D1vsiptioz46M1606161702.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.59,1,1,test
+D2lbuairgo52M1606161812.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.6433333333333333,1,1,test
+D2sncihcio44M1606161719.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.6133333333333333,1,1,test
+D2ssacvhei61M1606161742.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.61,1,1,test
+D2ubguot_t40M1606161758.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.62,1,1,test
+D2vsiptioz46M1606161704.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.6233333333333333,1,1,test
+FB1lbuairgo52M1606161825.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.64,1,1,test
+FB1sncihcio44M1606161728.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.63,1,1,test
+FB1ssacvhei61M1606161751.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.56,1,1,test
+FB1ubguot_t40M1606161807.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5566666666666666,1,1,test
+FB1vsiptioz46M1606161712.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5333333333333333,1,1,test
+PR1lbuairgo52M1606161824.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.55,1,1,test
+PR1sncihcio44M1606161727.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5933333333333334,1,1,test
+PR1ssacvhei61M1606161750.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5466666666666666,1,1,test
+PR1ubguot_t40M1606161806.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.6066666666666667,1,1,test
+PR1vsiptioz46M1606161711.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.49333333333333335,0,1,test
+VA1lbuairgo52M1606161813.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5666666666666667,1,1,test
+VA1sncihcio44M1606161720.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5266666666666666,1,1,test
+VA1ssacvhei61M1606161744.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.52,1,1,test
+VA1ubguot_t40M1606161759.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.52,1,1,test
+VA1vsiptioz46M1606161705.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5533333333333333,1,1,test
+VA2lbuairgo52M1606161814.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.61,1,1,test
+VA2sncihcio44M1606161721.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5366666666666666,1,1,test
+VA2ssacvhei61M1606161744.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5133333333333333,1,1,test
+VA2ubguot_t40M1606161759.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5833333333333334,1,1,test
+VA2vsiptioz46M1606161705.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.6233333333333333,1,1,test
+VE1lbuairgo52M1606161815.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5733333333333334,1,1,test
+VE1sncihcio44M1606161721.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5566666666666666,1,1,test
+VE1ssacvhei61M1606161745.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5266666666666666,1,1,test
+VE1ubguot_t40M1606161800.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5633333333333334,1,1,test
+VE1vsiptioz46M1606161706.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5366666666666666,1,1,test
+VE2lbuairgo52M1606161815.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.58,1,1,test
+VE2sncihcio44M1606161722.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5466666666666666,1,1,test
+VE2ssacvhei61M1606161745.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.54,1,1,test
+VE2ubguot_t40M1606161801.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5566666666666666,1,1,test
+VE2vsiptioz46M1606161706.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.61,1,1,test
+VI1lbuairgo52M1606161816.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5566666666666666,1,1,test
+VI1sncihcio44M1606161722.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.54,1,1,test
+VI1ssacvhei61M1606161746.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5,1,1,test
+VI1ubguot_t40M1606161801.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.52,1,1,test
+VI1vsiptioz46M1606161707.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5333333333333333,1,1,test
+VI2lbuairgo52M1606161816.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5733333333333334,1,1,test
+VI2sncihcio44M1606161722.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5633333333333334,1,1,test
+VI2ssacvhei61M1606161746.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5966666666666667,1,1,test
+VI2ubguot_t40M1606161802.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.54,1,1,test
+VI2vsiptioz46M1606161707.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.52,1,1,test
+VO1lbuairgo52M1606161817.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.56,1,1,test
+VO1sncihcio44M1606161723.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.49333333333333335,0,1,test
+VO1ssacvhei61M1606161747.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.47,0,1,test
+VO1ubguot_t40M1606161802.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5433333333333333,1,1,test
+VO1vsiptioz46M1606161708.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.53,1,1,test
+VO2lbuairgo52M1606161817.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.59,1,1,test
+VO2sncihcio44M1606161723.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.52,1,1,test
+VO2ssacvhei61M1606161747.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5566666666666666,1,1,test
+VO2ubguot_t40M1606161803.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5033333333333333,1,1,test
+VO2vsiptioz46M1606161708.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.4866666666666667,0,1,test
+VU1lbuairgo52M1606161819.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5566666666666666,1,1,test
+VU1sncihcio44M1606161724.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5,1,1,test
+VU1ssacvhei61M1606161748.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5133333333333333,1,1,test
+VU1ubguot_t40M1606161803.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.54,1,1,test
+VU1vsiptioz46M1606161709.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.52,1,1,test
+VU2lbuairgo52M1606161820.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5366666666666666,1,1,test
+VU2sncihcio44M1606161725.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.55,1,1,test
+VU2ssacvhei61M1606161748.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.53,1,1,test
+VU2ubguot_t40M1606161804.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5633333333333334,1,1,test
+VU2vsiptioz46M1606161709.wav,ipvs::sakar_parkinson_6-10,ipvs,1,test,ipvs,evaluation_source,cross_mdvr_kcl_to_ipvs,random_forest,0.5133333333333333,1,1,test

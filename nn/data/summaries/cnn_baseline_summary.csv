@@ -1,0 +1,11 @@
+,accuracy,precision,recall,f1_score,roc_auc
+single_uams,0.6923,0.6923,0.6923,0.6923,0.75
+single_mdvr_kcl,0.7273,0.7394,0.7273,0.7273,0.9333
+single_ipvs,0.8571,0.9286,0.8571,0.8745,1.0
+cross_uams_to_mdvr_kcl,0.5455,0.2975,0.5455,0.385,0.6333
+cross_uams_to_ipvs,0.2857,0.5714,0.2857,0.381,0.0
+cross_mdvr_kcl_to_uams,0.6154,0.3787,0.6154,0.4689,0.725
+cross_mdvr_kcl_to_ipvs,0.8571,0.7347,0.8571,0.7912,0.6667
+cross_ipvs_to_mdvr_kcl,0.4545,0.4242,0.4545,0.4253,0.4
+cross_ipvs_to_uams,0.6154,0.6319,0.6154,0.62,0.525
+combined_all,0.8023,0.8045,0.8023,0.803,0.8976

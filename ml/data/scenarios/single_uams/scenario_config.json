@@ -1,0 +1,18 @@
+{
+  "name": "single_uams",
+  "kind": "single",
+  "description": "Train/validate/test only on the UAMS dataset.",
+  "train_datasets": [
+    "uams"
+  ],
+  "val_datasets": [
+    "uams"
+  ],
+  "test_datasets": [
+    "uams"
+  ],
+  "final_fit_splits": [
+    "train",
+    "val"
+  ]
+}

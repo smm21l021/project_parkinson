@@ -1,0 +1,17 @@
+{
+  "name": "cross_mdvr_kcl_to_ipvs",
+  "kind": "cross",
+  "description": "Train on MDVR-KCL (train split), select on IPVS (val split), and test on IPVS (test split).",
+  "train_datasets": [
+    "mdvr-kcl"
+  ],
+  "val_datasets": [
+    "ipvs"
+  ],
+  "test_datasets": [
+    "ipvs"
+  ],
+  "final_fit_splits": [
+    "train"
+  ]
+}
